@@ -13,7 +13,7 @@ SRCCON 2021 is a hands-on conference, where everyone who attends actively partic
 
 ## Making the schedule together
 
-We’ll be gathering over three days, with generous breaks. Reserve these 3-hour blocks on your calendar now:
+We’ll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
 
 <table class="time-blocks">
   <thead>
@@ -55,7 +55,7 @@ We’ll be gathering over three days, with generous breaks. Reserve these 3-hour
 </table>
 Having SRCCON online means that we’ll be able to make the event accessible across time zones and differing circumstances. Each 3-hour block will include some combination of talks with Q&A, sessions, and a hobby discussion or social meetup. Not everyone will be able to attend every time session, and that’s okay. As a participant, we want you to be able to come when you can, and step back when you need.
 
-In addition to live sessions, we’ll also have a few pre-recorded, asynchronous talks and sessions as well as a chat space we’ll keep open throughout the event. To help all our participants feel comfortable bringing their whole selves — including their vulnerabilities, none of our sessions, pre-recorded or live, will be available after SRCCON.
+In addition to live sessions, we’ll also have a few pre-recorded, asynchronous talks and sessions as well as a chat space we’ll keep open throughout the event. To help all our participants feel comfortable bringing their whole selves — including their vulnerabilities, none of our sessions, pre-recorded or live, will be publicly available after SRCCON.
 
 ## Not just attendees, but participants
 
@@ -103,6 +103,6 @@ Accessibility will take shape in this online format in a few different ways:
  
  * **Financial access:** We have a limited number of free scholarship tickets and a limited number of [participation stipends](/scholarships) available to help people who wouldn't otherwise be able to attend. To apply for a stipend, just let us know on the [call for participation form](/participation/form). 
  * **Language access:** SRCCON will be conducted in English, with all talks and a portion of sessions transcribed by a professional stenographer. We're also exploring automated closed captioning for other sessions. As there is attendee interest, we'd be thrilled to support small group meetups in languages other than English. Let us know about any meetup ideas [by email](mailto:srccon@opennews.org) or in the [call for participation form](/participation/form).
- * **Timing access:** We're planning a mix of sessions you'll be able to participate in live and asynchronously, taking place largely between 9am-9pm ET. We hope to make it easier for people from a variety of time zones to participate as well as for all participants to manage attending sessions alongside other responsibilities.
+ * **Timing access:** We've planned to have a mix of sessions you'll be able to participate in live and asynchronously, taking place largely between 9am-9pm ET. We hope to make it easier for people from a variety of time zones to participate as well as for all participants to manage attending sessions alongside other responsibilities.
  
 If you have other access needs, [please let us know](mailto:srccon@opennews.org). We're doing our best to accommodate as many accessibility needs as we can and will keep attendees updated about adjustments to the program, details about platforms, and how to access all aspects of the event.
