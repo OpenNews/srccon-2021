@@ -1,54 +1,56 @@
 ---
 section: scholarships
 permalink: /scholarships/
-title: Scholarships
+title: Stipends and Scholarships
 ---
 
-# Scholarships for SRCCON events
+# Stipends and scholarships for SRCCON 2021
 
-Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code and tech, we want to help you attend SRCCON events.
+We want to help you attend SRCCON 2021: We're offering a free ticket for folks who need it and a stipend to support the participation of anyone who would not otherwise be compensated for their time during the conference.
 
-There's no separate application. Scholarship questions are part of our call for participation forms.
+The scholarship ticket will be one of the options on the ticket purchase page, so you can just pick up that free ticket directly. The stipend is for attendees whose time to participate or facilitate is otherwise not compensated or who need to pay for support so that they can participate, such as because of caregiving responsibilities. Questions for the stipend are part of our [call for participation form](/participation/form).
 
-### About the scholarship process
+### About the scholarship and stipend process
 
 ## What we&rsquo;re offering
 
-* A free ticket to the event
+* A free ticket to attend the event, and/or
+* A $250 stipend to compensate for participation in the event
 
 ## Who should apply
 
-* Anyone who is part of the journalism-tech community
-* Anyone interested in learning more about the journalism-tech community
-* People of color, women, and other underrepresented groups in technology are strongly encouraged to apply
+The tickets are for:
+
+* Anyone in the journalism-tech community who is unable to purchase a ticket to attend, in particular laid-off, unemployed, and freelance journalists
+* Tickets are prioritized for members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
+
+The stipends are for:
+
+* Anyone eligible for a ticket, whose time to participate or facilitate is otherwise not compensated, or who need to pay for support so that they can participate, such as because of caregiving responsibilities.
 
 ## How to apply
 
-Questions to help you apply for scholarship support are included in the call for participation form for each SRCCON event.
+Questions to apply for the stipend are included in the call for participation form. The scholarship ticket will be available through the registration process, no separate application necessary. 
 
 ## When notifications go out
 
-All scholarship applicants will hear from us when we send out notifications as part of the call for participation.
+The stipend notifications will go out on July 22.
 
 ## What happens after the event
 
-You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out anything you write or build coming out of your participation.
+You tell us how it went! We'll send you a short followup survey and will be excited to check out anything you write or build coming out of your participation.
 
-## Why do you offer these scholarships?
+## Why do you offer these?
 
-We want to make sure that SRCCON events include the diversity of the communities we serve&mdash;geographically, demographically, experientially, and more. We know that travel costs can be a hardship, and offer this scholarship as a way to help mitigate that.
+We want to make sure that SRCCON events include the diversity of the communities we serve—geographically, demographically, experientially, and more. In the past, we've offered this scholarship because we know that travel costs can be a hardship, and offered this scholarship as a way to help mitigate that. We've adapted the scholarship this year in response to the acute financial situation facing many journalists during the pandemic.
 
-## How do you decide who will receive a scholarship?
+## How do you decide who will receive a stipends?
 
-OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and from smaller and non-coastal newsrooms.
+OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
 
-## When will I receive my scholarship?
+## When will I receive my stipend?
 
-When we notify scholarship recipients, we'll include information about how to receive the scholarship funds. In short, you will need to fill out a form and send some tax paperwork for our administrators to process the payment. It may take a month or so for check processing.
-
-## What if I need more than $500 for my travel?
-
-We're able to offer $500 scholarships at this time. We try to schedule SRCCON events in cities that are relatively cheap once you arrive, though, and share information between attendees who want to coordinate ways to save on their travel budget. (So if you, say, wanted to create a room-share spreadsheet, we'd be happy to help spread the word!) You can [email us with any suggestions](mailto:srccon@opennews.org).
+When we notify stipend recipients, we'll include information about how to receive the stipend funds. In short, you will need to fill out a form and send some tax paperwork for our administrators to process the payment. It may take a month or so for check processing.
 
 ## Questions not covered here?
 
