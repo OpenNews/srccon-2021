@@ -5,7 +5,7 @@ permalink: /
 
 ### When & where
 
-**August 11-13, online!** 
+**August 11-13, online!** [Reserve the specific blocks on your calendar →](/attendees)
 
 
 ### About {{ page.event_name }}
