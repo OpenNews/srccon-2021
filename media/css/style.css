@@ -186,6 +186,33 @@ strong {
     margin-left: .5em;
 }
 
+.hub table.time-blocks {
+    font-family: sofia-pro, sans-serif;
+    text-align: left;
+}
+
+.hub table.time-blocks thead {
+    /*color: #fc6e1f;*/
+}
+
+.hub table.time-blocks th, .hub table.time-blocks td {
+    padding: 10px 15px;
+    border-bottom: 4px solid white;
+    font-size: 0.9em;
+}
+
+.hub table.time-blocks td {
+    border-bottom: 2px solid white;
+}
+
+.hub table.time-blocks th:nth-child(odd), .hub table.time-blocks tr td:nth-child(odd){
+    background-color:  #ffa50061;
+}
+
+.hub table.time-blocks th:nth-child(even), .hub table.time-blocks tr td:nth-child(even){
+    background-color:  #ffa5002e;
+}
+
 /* HEADER IMAGES */
 header #header-image { /* default to MPLS skyline homepage background */
     background-size: cover;
@@ -437,11 +464,13 @@ footer li {
 .hub footer #footer-sponsors {
     margin-bottom: 2em;
 }
-.hub footer .trailer {
-    padding-top: 2em;
-    font-size: .8em;
+.sourcecon .trailer {
+    padding: 0em;
+    font-size: 1em;
     text-align: center;
     font-family: freight-text-pro, serif;
+    margin: 0;
+    color: #00000082;
 }
 
 #footer-sponsors .page-container {

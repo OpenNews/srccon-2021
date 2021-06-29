@@ -5,7 +5,43 @@ permalink: /
 
 ### When & where
 
-**August 11-13, online!**
+**August 11-13, online!** 
+
+We'll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
+
+<table class="time-blocks">
+  <thead>
+    <th>Date</th>
+    <th>Pacific</th>
+    <th>Central</th>
+    <th>Eastern</th>
+    <th>UTC</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aug. 11 (Wed)</td>
+      <td>9am - 12pm<br/>2pm - 5pm</td>
+      <td>11am - 2pm<br/>4pm - 7pm</td>
+      <td>12pm - 3pm<br/>5pm - 8pm</td>
+      <td>4pm - 7pm<br/>9pm - 12am</td>
+    </tr>
+    <tr>
+      <td>Aug. 12 (Thurs)</td>
+      <td>8am - 11am<br/>1pm - 4pm</td>
+      <td>10am - 1pm<br/>3pm - 6pm</td>
+      <td>11am - 2pm<br/>4pm - 7pm</td>
+      <td>3pm - 6pm<br/>8pm - 11pm</td>
+    </tr>
+    <tr>
+      <td>Aug. 13 (Fri)</td>
+      <td>7am - 10am<br/>12pm - 3pm</td>
+      <td>9am - 12pm<br/>2pm - 5pm</td>
+      <td>10am - 1pm<br/>3pm - 6pm</td>
+      <td>2pm - 5pm<br/>7pm - 10pm</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### About {{ page.event_name }}
 
