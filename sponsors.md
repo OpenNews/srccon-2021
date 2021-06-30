@@ -10,20 +10,20 @@ For journalism-technologists and newsroom leaders, SRCCON is a place to “recha
 
 SRCCON events have adapted to be fully online, while remaining interactive and a place for real connection. As one attendee put it, SRCCON 2020 _“made me more confident about my media, my future, made me realize I was not alone in my view of journalism, it gave me hope for a journalism that truly represents me!”_
 
-## Ways to sponsor SRCCON and help make events happen
+### Ways to sponsor SRCCON and help make events happen
 
 We're seeking sponsors for SRCCON events, which host hundreds of participants from news and technology organizations of all sizes. Available sponsorships include:
 
-### 🤝 Partnership sponsors
+## 🤝 Partnership sponsors
 Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility — your support makes SRCCON possible.
 
-### 👉 Accessibility sponsors
+## 👉 Accessibility sponsors
 You're directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program — because you are literally helping us make SRCCON available to as many people as possible.
 
-### 🙌 Break sponsors
+## 🙌 Break sponsors
 Create spaces for attendees to connect in virtual hallways and hangout spaces. We know that these spaces have created lifelong connections between participants, and extremely meaningful.
 
-### 👌 Event sponsors 
+## 👌 Event sponsors 
 Help us with all the finishing touches on the event. Show your support by helping us put on what our participants frequently say is "the best conference I've ever been to."
 
 Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
