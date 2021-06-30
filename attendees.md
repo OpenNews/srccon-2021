@@ -7,7 +7,7 @@ description: At SRCCON 2021, everyone participates in some way. Our hands-on ses
 
 # Participation at SRCCON 2021
 
-SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](sessions/proposal-guide/).
+SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](/sessions/proposal-guide/).
 
 <span id="schedule"></span>
 
