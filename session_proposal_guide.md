@@ -10,8 +10,9 @@ Are you thinking about [proposing a session](/participation/form) for SRCCON 202
 
 ## Key dates
 
-* **Friday, July 16:** Deadline for session proposals and stipend applications
-* **Thursday, July 22:** We'll begin sending out session notifications
+* **Friday, July 16**: Deadline to submit session proposals and stipend applications using our call for participation form
+* **By Thursday, July 22**: Facilitators and stipend applicants will be notified
+* **August 11-13**: SRCCON 2021, online!
 
 ## How will participatory sessions work at an online conference?
 

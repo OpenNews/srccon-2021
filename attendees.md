@@ -7,7 +7,7 @@ description: At SRCCON 2021, everyone participates in some way. Our hands-on ses
 
 # Participation at SRCCON 2021
 
-SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of SRCCON 2021, use that form to let us know how. 
+SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](sessions/proposal-guide/).
 
 <span id="schedule"></span>
 
@@ -81,13 +81,22 @@ Here are the tiers for tickets to SRCCON 2021 (plus Eventbrite ticketing fees):
 * **$275:** This tier is for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
 * **$450:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON 2021 and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
 
-In addition, this year we are also offering a free scholarship ticket as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, with priority for journalists of color.
+In addition, this year we are also offering a [free scholarship ticket](/scholarships) as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, with priority for journalists of color.
 
 **Here's the most important thing to know about these ticket prices:** _We want you to choose the one that makes sure you can be at SRCCON 2021._ We don't review who pays what, and we won't follow up with any questions. If you work for an organization where budgets have already been set or there's not support available to you, _choose a lower price_ and join us. By the same token, if you budgeted for travel costs you no longer have to spend and are able to purchase a ticket at a higher tier, please do. In addition, if you would like to pay for someone else's ticket, [email us](mailto:erika@opennews.org) and we have a process to make it happen.
 
 We based these tiers on community feedback encouraging us to find ways to share event costs. Ticket funds are a huge part of what makes it possible to organize an event with scholarship tickets, stipends, live transcription, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together.
 
 If you have any questions at all about ticket pricing, [please reach out](mailto:srccon@opennews.org).
+
+## Financial and Family Assistance
+
+We're offering two types of financial assistance to support your ability to join us for SRCCON 2021:
+
+* **Free scholarship tickets** for anyone who otherwise would not be able to attend
+* **Stipends** to support the participation of anyone who would not otherwise be compensated for their time during the conference or preparing to facilitate, such as because of caregiving responsibilities
+
+Get more information on who should apply and how to apply on our [Stipends and Scholarships page](/scholarships).
 
 ## Facilitating sessions
 
