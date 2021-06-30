@@ -63,6 +63,16 @@ We'll also check in with you individually to ask about scheduling needs, make su
 
 And we believe that conferences like SRCCON are where amazing work only _begins_, so we're already thinking about ways to support you in moving ideas forward after your session is done.
 
+## Is there any financial support for session facilitators? Do facilitators have to purchase a ticket?
+
+Yes, financial support is available. We have both free [scholarship tickets and stipends](/scholarships) to help you attend or cover unpaid time preparing to facilitate your session. Because SRCCON is a collaborative, peer-to-peer event, we ask that all participants, including facilitators, buy a ticket. This [approach to ticketing](/attendees/#tickets) is part of how we make the event accessible to as many people as we can. 
+
+If you or your company are not able to pay for a ticket, when it's time to purchase your ticket, there will be an option right on the Eventbrite registration form to pick up a free scholarship ticket directly.
+
+This year, we're also offering $250 stipends to facilitators whose time preparing for their session would otherwise be uncompensated. If this applies to you, you can apply for a stipend when you're proposing your session in our [call for participation form](/participation/form).
+
+[More information about how we're doing stipends and scholarships for SRCCON 2021](/scholarships).
+
 ## What happens when the conference is over?
 
 One of the most exhilarating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after talking through how you're changing the ways your organization operates. Maybe it's an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism. There are so many exciting things that can happen when passionate people get together at an event like SRCCON. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
