@@ -5,7 +5,7 @@ permalink: /
 
 ### How to be a part of SRCCON 2021
 
-**[Our call for participation form is open!](/participation/form)**
+**[Our call for participation form is open](/participation/form)** with a July 16 deadline for session proposals and rolling deadline for attendees.
 
 Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
@@ -18,7 +18,7 @@ Our [call for participation form](/participation/form/) includes questions to te
 
 This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020. 
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but applying early is your best chance to attend.
+Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
 
 
 ### When & where
@@ -65,7 +65,7 @@ We’ll be gathering over three days, with generous breaks. Reserve these blocks
     </tr>
   </tbody>
 </table>
-
+Learn more about our how we'll make the schedule together, and other [information attendees need to know](/attendees).
 
 ### About {{ page.event_name }}
 

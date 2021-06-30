@@ -7,7 +7,7 @@ description: At SRCCON 2021, everyone participates in some way. Our hands-on ses
 
 # Participation at SRCCON 2021
 
-SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](/sessions/proposal-guide/).
+SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form), with a July 16 deadline for session proposals and rolling deadline for attendees. If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](/sessions/proposal-guide/).
 
 <span id="schedule"></span>
 
@@ -61,13 +61,13 @@ In addition to live sessions, we’ll also have a few pre-recorded, asynchronous
 
 At SRCCON 2021, everyone participates in some way. Our hands-on sessions rely on participants who are ready to share their experiences and perspectives. Facilitators create space for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON 2021 an inclusive, welcoming place by leading group activities, volunteering, and even just saying hi to new friends and collaborators over breaks and activities.
 
-Our [call for participation form](/participation/form) has a few questions for you about what you'd like to bring to SRCCON 2021 and how we can support one another. We look forward to seeing what ideas folks have and how we can make them possible during our three days together. As one prior attendee put it, SRCCON “will be a special opportunity to take some of the brightest minds in journalism, data, and community-building to tackle everything that has come to a head in the past couple of months with positivity, frankness, and creativity.”
+Our [call for participation form](/participation/form) has a few questions for you about what you'd like to bring to SRCCON 2021 and how we can support one another. We look forward to seeing what ideas folks have and how we can make them possible during our three days together. As one prior attendee put it, SRCCON _“will be a special opportunity to take some of the brightest minds in journalism, data, and community-building to tackle everything that has come to a head in the past couple of months with positivity, frankness, and creativity.”_
 
 ## Inviting participants and allocating tickets
 
 We keep SRCCON events intentionally small, and this online event will be no different. We're planning for about 300 participants. Even though a physical venue isn't constraining the size of the crowd this year, the collaborative, interactive nature of SRCCON just doesn't scale in the same way a talks-only conference can. The relatively small size of SRCCON 2021 means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON 2021. Our [call for participation form](/participation/form) will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and scholarship applications is July 16, and we'll keep the form open for attendees as long as we can. We review the call for participation forms on a rolling basis, and within a week or so we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
+The deadline for session proposals and stipend applications is July 16, and we'll keep the form open for attendees as long as we can. We are going to review the call for participation forms on a rolling basis, and within a week or so we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
 
 <span id="tickets"></span>
 
@@ -81,9 +81,9 @@ Here are the tiers for tickets to SRCCON 2021 (plus Eventbrite ticketing fees):
 * **$275:** This tier is for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
 * **$450:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON 2021 and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
 
-In addition, this year we are also offering a [free scholarship ticket](/scholarships) as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, with priority for journalists of color.
+In addition, this year we are also offering a [free scholarship ticket](/scholarships) as one of the tiers. We have a limited number of free tickets set aside for people who otherwise would not be able to attend, in particular for laid off and freelance journalists. We also give priority to people who identify as members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
 
-**Here's the most important thing to know about these ticket prices:** _We want you to choose the one that makes sure you can be at SRCCON 2021._ We don't review who pays what, and we won't follow up with any questions. If you work for an organization where budgets have already been set or there's not support available to you, _choose a lower price_ and join us. By the same token, if you budgeted for travel costs you no longer have to spend and are able to purchase a ticket at a higher tier, please do. In addition, if you would like to pay for someone else's ticket, [email us](mailto:erika@opennews.org) and we have a process to make it happen.
+**Here's the most important thing to know about these ticket prices:** _We want you to choose the one that makes sure you can be at SRCCON 2021._ We don't review who pays what, and we won't follow up with any questions. If you work for an organization where budgets have already been set or there's not support available to you, _choose a lower price_ and join us. By the same token, if you budgeted for travel costs you no longer have to spend and are able to purchase a ticket at a higher tier, please do. If you're interested in contributing to a scholarship ticket, please pick the highest ticket tier you can afford. Paying for free tickets and stipends is something we deliberately build into our ticket tier structure. 
 
 We based these tiers on community feedback encouraging us to find ways to share event costs. Ticket funds are a huge part of what makes it possible to organize an event with scholarship tickets, stipends, live transcription, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together.
 
@@ -94,7 +94,7 @@ If you have any questions at all about ticket pricing, [please reach out](mailto
 We're offering two types of financial assistance to support your ability to join us for SRCCON 2021:
 
 * **Free scholarship tickets** for anyone who otherwise would not be able to attend
-* **Stipends** to support the participation of anyone who would not otherwise be compensated for their time during the conference or preparing to facilitate, such as because of caregiving responsibilities
+* **Stipends** to support the participation of attendees whose time to participate or facilitate is otherwise not compensated or who need to pay for support so that they can participate, such as because of caregiving responsibilities
 
 Get more information on who should apply and how to apply on our [Stipends and Scholarships page](/scholarships).
 

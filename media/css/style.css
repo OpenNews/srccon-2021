@@ -191,6 +191,7 @@ strong {
     text-align: left;
     width: 100%;
     max-width: 500px;
+    margin-bottom: 1em;
 }
 
 .hub table.time-blocks thead {
