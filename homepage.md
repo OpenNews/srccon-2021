@@ -5,21 +5,19 @@ permalink: /
 
 ### How to be a part of SRCCON 2021
 
-**[Our call for participation form is open](/participation/form)** with a July 16 deadline for session proposals and rolling deadline for attendees.
+**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
-Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
 
 **Key Dates for Your Calendar**:
 
-* **Friday, July 16**: Deadline to submit session proposals and stipend applications using our call for participation form
-* **By Thursday, July 22**: Facilitators and stipend applicants will be notified
+* **By Thursday, July 22**: Anyone who proposed a session or applied for a stipend by July 16 will be notified
 * **On a rolling basis**: Within a week or so of submitting our call for participation form, anyone who selects "I'd like to attend" will be notified about whether they are invited to purchase a ticket
 * **August 11-13**: SRCCON 2021, online!
 
-This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020. 
+This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020.
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
-
+Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
 
 ### When & where
 
@@ -85,7 +83,6 @@ SRCCON will be a place to re-energize, personally and professionally, where the 
 
 Our work exists to create a future where journalists can work in newsrooms that are equitable, inclusive, and collaborative. We hold space for you to bring your entire self to SRCCON, just as we hope that one day everyone will be able to bring their whole selves to work—instead of feeling the need to self-oppress because of identity or background. We also hope to provide the community, environment, and support you need to focus on your work (or what you're passionate about), and at least for a while, do it without carrying extra weight.
 
-
 ### Who attends SRCCON events
 
 Our participants represent organizations ranging from massive to tiny, and come from all over the U.S. and many other countries. Accessibility is a core value, and we always offer live session transcripts and tons of documentation throughout the conference. Just like last year, much of the SRCCON program will be available across multiple time zones and through asynchronous participation—if you need to take care of the popsicle your kid just dropped on the floor or step away for an urgent call, we want to make it possible to participate around the complexity of this moment.
@@ -97,7 +94,6 @@ SRCCON participants are developers, designers, journalists, editors, and allies:
 [Ticket prices start at $125](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $250 stipends](/scholarships) for attendees whose time to attend would otherwise be uncompensated.
 
 SRCCON events don't have open sale dates or lotteries. If you want to come to SRCCON 2021, our [call for participation](/participation/form) is how to let us know.
-
 
 ### What's next
 

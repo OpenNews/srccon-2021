@@ -7,7 +7,7 @@ description: At SRCCON 2021, everyone participates in some way. Our hands-on ses
 
 # Participation at SRCCON 2021
 
-SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form), with a July 16 deadline for session proposals and rolling deadline for attendees. If you'd like to be part of SRCCON 2021, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](/sessions/proposal-guide/).
+SRCCON 2021 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form): If you'd like to be part of SRCCON 2021, use that form to let us know how.
 
 <span id="schedule"></span>
 
@@ -53,7 +53,8 @@ We’ll be gathering over three days, with generous breaks. Reserve these blocks
     </tr>
   </tbody>
 </table>
-Having SRCCON online means that we’ll be able to make the event accessible across time zones and differing circumstances. Each 3-hour block will include some combination of talks with Q&A, sessions, and a hobby discussion or social meetup. Not everyone will be able to attend every time session, and that’s okay. As a participant, we want you to be able to come when you can, and step back when you need.
+
+Having SRCCON online means that we’ll be able to make the event accessible across time zones and differing circumstances. Each 3-hour block will include some combination of one talk with Q&A, one 75-minute session, and a hobby discussion or social meetup. Not everyone will be able to attend every time session, and that’s okay. As a participant, we want you to be able to come when you can, and step back when you need.
 
 In addition to live sessions, we’ll also have a few pre-recorded, asynchronous talks and sessions as well as a chat space we’ll keep open throughout the event. To help all our participants feel comfortable bringing their whole selves — including their vulnerabilities, none of our sessions, pre-recorded or live, will be publicly available after SRCCON.
 
@@ -67,7 +68,7 @@ Our [call for participation form](/participation/form) has a few questions for y
 
 We keep SRCCON events intentionally small, and this online event will be no different. We're planning for about 300 participants. Even though a physical venue isn't constraining the size of the crowd this year, the collaborative, interactive nature of SRCCON just doesn't scale in the same way a talks-only conference can. The relatively small size of SRCCON 2021 means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON 2021. Our [call for participation form](/participation/form) will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and stipend applications is July 16, and we'll keep the form open for attendees as long as we can. We are going to review the call for participation forms on a rolling basis, and within a week or so we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
+We review the call for participation forms on a rolling basis, and within a week or so we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
 
 <span id="tickets"></span>
 
@@ -100,7 +101,7 @@ Get more information on who should apply and how to apply on our [Stipends and S
 
 ## Facilitating sessions
 
-At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—consider becoming a facilitator this year by [learning more about sessions](/sessions/proposal-guide). You will be able to tell us all about your session idea on the [call for participation form](/participation/form). 
+At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—the deadline for proposals this year has passed, but we'd love to hear your ideas for the program next time!
 
 ## Welcome, first-timers
 
@@ -112,6 +113,6 @@ Accessibility will take shape in this online format in a few different ways:
  
  * **Financial access:** We have a limited number of free scholarship tickets and a limited number of [participation stipends](/scholarships) available to help people who wouldn't otherwise be able to attend. To apply for a stipend, just let us know on the [call for participation form](/participation/form). 
  * **Language access:** SRCCON will be conducted in English, with all talks and a portion of sessions transcribed by a professional stenographer. We're also exploring automated closed captioning for other sessions. As there is attendee interest, we'd be thrilled to support small group meetups in languages other than English. Let us know about any meetup ideas [by email](mailto:srccon@opennews.org) or in the [call for participation form](/participation/form).
- * **Timing access:** We've planned to have a mix of sessions you'll be able to participate in live and asynchronously, taking place largely between 9am-9pm ET. We hope to make it easier for people from a variety of time zones to participate as well as for all participants to manage attending sessions alongside other responsibilities.
+ * **Timing access:** We've planned to have a mix of asynchronous sessions and timed sessions taking place largely between 9am-9pm ET, to make it easier for people from a variety of time zones to participate as well as for all participants to manage attending sessions alongside other responsibilities.
  
 If you have other access needs, [please let us know](mailto:srccon@opennews.org). We're doing our best to accommodate as many accessibility needs as we can and will keep attendees updated about adjustments to the program, details about platforms, and how to access all aspects of the event.

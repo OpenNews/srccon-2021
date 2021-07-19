@@ -12,13 +12,13 @@ The scholarship ticket will be one of the options on the ticket purchase page, s
 
 ### About the scholarship and stipend process
 
-## What we&rsquo;re offering
+## What we're offering
 
 * A free ticket to attend the event, and/or
 * A $250 stipend to compensate for participation in the event
 
 ## Who should apply
-
+ 
 The tickets are for:
 
 * Anyone in the journalism-tech community who is unable to purchase a ticket to attend, in particular laid-off, unemployed, and freelance journalists
@@ -30,11 +30,11 @@ The stipends are for:
 
 ## How to apply
 
-Questions to apply for the stipend are included in the call for participation form. The scholarship ticket will be available through the registration process, no separate application necessary. 
+Questions to apply for the stipend are included in the call for participation form. The priority deadline for stipends was July 16, but we will continue to accept applications for stipends for as long as we can. The scholarship ticket will be available through the registration process, no separate application necessary. 
 
 ## When notifications go out
 
-The stipend notifications will go out on July 22.
+The stipend notifications will go out on July 22 to everyone who applied by July 16.
 
 ## What happens after the event
 
