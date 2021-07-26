@@ -1,5 +1,5 @@
 name: SRCCON 2021
-url: https://2021.srccon.org/
+url: https://2021.srccon.org
 markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
