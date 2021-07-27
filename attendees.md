@@ -13,7 +13,7 @@ SRCCON 2021 is a hands-on conference, where everyone who attends actively partic
 
 ## Making the schedule together
 
-We’ll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
+[Check out the sessions and talks](/program) have already been confirmed! The full schedule is coming soon, but we know we'll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
 
 <table class="time-blocks">
   <thead>
