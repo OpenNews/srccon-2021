@@ -589,13 +589,26 @@ table a.session-transcript {
     margin-top: 3em;
 }
 .session-proposal-list .session-proposal {
-    margin-bottom: 2em;
+    margin-bottom: 2.5em;
 }
 .session-proposal-list .facilitator {
-    font-size: .8em;
+    font-size: .9em;
     font-style: italic;
-    margin-bottom: .33em;
+    margin: .5em 0;
 }
+p.facilitator + p.session-description {
+    margin: 0;
+}
+.session-proposal-list h4.session-title {
+    font-size: 1.2em;
+}
+
+#list-filter-form label {
+    font-family: sofia-pro, sans-serif;
+    font-size: .8em;
+    font-weight: bold;
+}
+
 
 
 /* FORM STYLES */

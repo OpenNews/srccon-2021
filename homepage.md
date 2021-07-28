@@ -5,13 +5,13 @@ permalink: /
 
 ### How to be a part of SRCCON 2021
 
-**[Our call for participation form is open](/participation/form)** with questions to tell us how you want to participate at SRCCON. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+**Attend SRCCON:** Our deadline for proposing sessions has already passed, but you can still fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
-Our deadline for proposing sessions has already passed, but we'll keep our [call for participation form](/participation/form) open for attendees as long as we have space!
+**[Our Program](/program):** See what sessions and talks have already been confirmed. Full schedule coming soon.
 
 **Key Dates for Your Calendar**:
 
-* **By Thursday, July 22**: Anyone who proposed a session or applied for a stipend by July 16 will be notified
+* **By Thursday, July 22**: Anyone who proposed a session or applied for a stipend by July 16 has been notified
 * **On a rolling basis**: Within a week or so of submitting our call for participation form, anyone who selects "I'd like to attend" will be notified about whether they are invited to purchase a ticket
 * **August 11-13**: SRCCON 2021, online!
 
