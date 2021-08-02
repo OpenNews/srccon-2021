@@ -506,7 +506,7 @@
     {
         "break": "", 
         "day": "Thursday", 
-        "description": "For most of my life, I knew absolutely zero about cars. After spending years avoiding auto maintenance and letting problems pile up, I decided to apply the same skills I use as a journalist to working on my car. Thankfully, there's a whole community of people online who do their own automotive work, mostly from watching other people perform repairs on YouTube. In the years since, I've found myself going to the local junkyard, looking for parts and doing all kinds of repairs, large and small. With help from videos and guides at the local library, I've done everything from repairing broken windows, fixing panels, lights, sensors and switches, and even disassembling and cleaning the entire front half of my engine. I want to demystify how to get started with automotive work, where to get parts, talk about how to find information related to your vehicle, tips and tricks, and answer any questions people might have. Once you've done it once, working on your car is pretty infectious. My partner and several friends are all doing their own auto work, now, and you could too.", 
+        "description": "For most of my life, I knew absolutely zero about cars. After spending years avoiding auto maintenance and letting problems pile up, I decided to apply the same skills I use as a journalist to working on my car. Thankfully, there's a whole community of people online who do their own automotive work, mostly from watching other people perform repairs on YouTube. In the years since, I've found myself going to the local junkyard, looking for parts and doing all kinds of repairs, large and small. With help from videos and guides at the local library, I've done everything from repairing broken windows, fixing panels, lights, sensors and switches, and even disassembling and cleaning the entire front half of my engine. I want to demystify how to get started with automotive work, where to get parts, talk about how to find information related to your vehicle, tips and tricks, and answer any questions people might have. Once you've done it once, working on your car is pretty infectious. My partner and several friends are all doing their own auto work now, and you could too.", 
         "everyone": "", 
         "facilitators": "Brandon Roberts", 
         "id": "be-your-own-mechanic", 
@@ -576,7 +576,7 @@
     {
         "break": "", 
         "day": "Wednesday", 
-        "description": "We spent the last seven months traveling across the country in our Subaru and living in Airbnb. National parks are our backyard. We’ll share our experience of being nomads, what we’ve learned hiking every day, logistics of moving every three weeks and where we’ve found comforts along the way. Or whatever else you all want to talk about.", 
+        "description": "We spent the last seven months traveling across the country in our Subaru and living in Airbnbs. National parks are our backyard. We’ll share our experience of being nomads, what we’ve learned hiking every day, logistics of moving every three weeks and where we’ve found comforts along the way. Or whatever else you all want to talk about.", 
         "everyone": "", 
         "facilitators": "Kim Perry", 
         "id": "national-parks-our-backyard", 
@@ -585,6 +585,62 @@
         "time": "7-8pm ET", 
         "timeblock": "wed-7pm", 
         "title": "How I made national parks our backyard (let's talk about hiking, a lot)", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "More information coming soon!", 
+        "everyone": "", 
+        "facilitators": "André Natta", 
+        "id": "baseball-game", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "Let's watch a baseball game together", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "More information coming soon!", 
+        "everyone": "", 
+        "facilitators": "Andrew Kan, Kate Myers", 
+        "id": "rubiks-cube", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "How to solve a Rubik's cube", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "More information coming soon!", 
+        "everyone": "", 
+        "facilitators": "Emma Carew Grovum, Kim Bui", 
+        "id": "sincerely-leaders-of-color-live", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "Sincerely, Leaders of Color LIVE", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Friday", 
+        "description": "More information coming soon!", 
+        "everyone": "", 
+        "facilitators": "Carolina Vasquez", 
+        "id": "digital-illustration", 
+        "social": "y", 
+        "talk": "", 
+        "time": "10-11am ET", 
+        "timeblock": "fri-10am", 
+        "title": "Digital Illustration", 
         "transcription": ""
     }
 ]
