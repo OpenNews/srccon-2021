@@ -642,5 +642,19 @@
         "timeblock": "fri-10am", 
         "title": "Digital Illustration", 
         "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Thursday", 
+        "description": "More information coming soon!", 
+        "everyone": "", 
+        "facilitators": "Fahmida Rashid", 
+        "id": "dnd-together", 
+        "social": "y", 
+        "talk": "", 
+        "time": "5:30-7:30pm ET", 
+        "timeblock": "thu-530pm", 
+        "title": "Dungeons & Dragons, Let's Play", 
+        "transcription": ""
     }
 ]
