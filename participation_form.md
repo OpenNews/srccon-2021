@@ -6,7 +6,7 @@ title: Call for Participation
 
 # Call for participation
 
-Want to participate at SRCCON 2021? If you want to attend, volunteer, or [participate in any other way](/attendees), this form is where to let us know. We'll keep this form open for attendees as long as space remains available.
+Want to participate at SRCCON 2021? If you want to [attend as a participant](/attendees), this form is where to let us know. We'll keep this form open for attendees as long as space remains available.
 
 After we review your form, we will let you know whether you are invited to attend. If so, we will send a link so you can purchase a ticket to SRCCON 2021, with <a href="/attendees/#tickets">prices starting at $125 plus fees</a>.
 

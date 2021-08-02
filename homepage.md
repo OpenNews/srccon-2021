@@ -7,7 +7,7 @@ permalink: /
 
 **August 11-13, online!** [Our full schedule is live](/schedule) and we couldn't be more excited. 
 
-**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will be able to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
 **Key Dates for Your Calendar**:
 
