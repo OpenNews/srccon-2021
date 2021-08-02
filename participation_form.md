@@ -6,11 +6,11 @@ title: Call for Participation
 
 # Call for participation
 
-We can't wait to hear how you'd like to participate at SRCCON 2021! If you want to attend or [participate in any way](/attendees), this form is where to let us know. We'll keep this form open for attendees as long as space remains available.
-
-While the deadline to propose a session has already passed, you can check out the [sessions we've confirmed so far](/program).
+Want to participate at SRCCON 2021? If you want to attend, volunteer, or [participate in any other way](/attendees), this form is where to let us know. We'll keep this form open for attendees as long as space remains available.
 
 After we review your form, we will let you know whether you are invited to attend. If so, we will send a link so you can purchase a ticket to SRCCON 2021, with <a href="/attendees/#tickets">prices starting at $125 plus fees</a>.
+
+You can also check out [our full schedule here](/schedule).
 
 Please feel free to reach out to us at [srccon@opennews.org](mailto:srccon@opennews.org) with any questions. If you're all set, the participation form is below!
 

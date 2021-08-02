@@ -13,46 +13,7 @@ SRCCON 2021 is a hands-on conference, where everyone who attends actively partic
 
 ## Making the schedule together
 
-[Check out the sessions and talks](/program) have already been confirmed! The full schedule is coming soon, but we know we'll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
-
-<table class="time-blocks">
-  <thead>
-    <th>Date</th>
-    <th>Blocks (all in ET)</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aug. 11 (Wed)</td>
-      <td>
-        <ul>
-          <li>12pm - 3pm</li>
-          <li>Break</li>
-          <li>5pm - 8pm</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Aug. 12 (Thurs)</td>
-      <td>
-        <ul>
-          <li>11am - 2pm</li>
-          <li>Break</li>
-          <li>4pm - 7pm</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Aug. 13 (Fri)</td>
-      <td>
-        <ul>
-          <li>10am - 1pm</li>
-          <li>Break</li>
-          <li>3pm - 6pm</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+[Our full schedule is live](/schedule) and we couldn't be more excited. We'll be gathering over three days, with generous breaks.
 
 Having SRCCON online means that we’ll be able to make the event accessible across time zones and differing circumstances. Each 3-hour block will include some combination of one talk with Q&A, one 75-minute session, and a hobby discussion or social meetup. Not everyone will be able to attend every time session, and that’s okay. As a participant, we want you to be able to come when you can, and step back when you need.
 
