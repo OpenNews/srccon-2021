@@ -102,7 +102,7 @@
         "day": "Wednesday", 
         "description": "You are a developer, data reporter, or any variety of newsroom technologist—a news nerd through and through. Your boss? She's not. \n\nSo how do you bridge the gap when you are that developer or technologist? How do you explain your work to someone who doesn't understand exactly what you do? And how do you feel like a full part of the newsroom when so much of your hard work goes unseen? \n\nHow do you bridge the gap when you are that editor who doesn't have the same training as the members of the team you are trying to lead? How do you make your team members feel understood and valuable? How do you explain to your boss that what they just asked for at the last minute will take days to do and fully kill morale? \n\nTogether we'll talk through strategies and structure to help you all work together and create amazing journalism along the way. ", 
         "everyone": "", 
-        "facilitators": "Ashleigh Graf", 
+        "facilitators": "Ashleigh Graf, Melissa DePuydt", 
         "id": "teams-tech-languages", 
         "social": "", 
         "talk": "", 
@@ -519,6 +519,20 @@
     }, 
     {
         "break": "", 
+        "day": "Thursday", 
+        "description": "Join journalist [Will Lager](http://twitter.com/iniwil) on the banks of the Mississippi River as it flows through the gorge. Learn a little about the history of the river that has been inhabited by the Dakota and Anishinabe peoples since long before European colonists arrived. Then share in a bit of a tranquil pause as the river flows on, flanked by verdant green forest. Folks really enjoyed a similar session last year, so let's do it again!", 
+        "everyone": "", 
+        "facilitators": "Will Lager", 
+        "id": "live-on-the-mississippi", 
+        "social": "y", 
+        "talk": "", 
+        "time": "5:30-6:30pm ET", 
+        "timeblock": "thu-530pm", 
+        "title": "LIVE on the Mississippi River", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
         "day": "Friday", 
         "description": "Whether a core part of your identity, a heritage you care about, or simply a part of your biography, religion can be a factor in our experience of day-to-day life within journalism careers. When your faith and what it means to you may not be obvious to other people, it can make it hard to find community or know how to approach the topic of representation. \n\nIn this session, we want to make space for a conversation that focuses on life as Jews in the newsroom. How aspects of the faith, both visible and invisible, impact our working lives, how best to stand up and represent our Jewish voices, whilst also supporting and being allies to others. We want to create opportunities to find each other, common ground and share experiences from different regions of the world (e.g. UK and US perspectives).\n\nWe welcome all SRCCON participants to join us, and will be focusing on granting space and time to lift up Jewish voices.", 
         "everyone": "", 
@@ -536,7 +550,7 @@
         "day": "Friday", 
         "description": "We practice because it is in our nature to do so - that's the mantra of Awakening Yoga. Created by Patrick Beach and Carling Harps, AY is a modern vinyasa yoga system that honors the rituals of traditional yoga with a practical and functional approach to asana. During this hour, we will try to find some space for ritualistic movement and focus with a 30-45 flow. Afterwards, there will be time for a post-flow chat: how did this style of yoga make you feel? What did you like about it, what was challenging? Open to all skill levels, but familiarity with vinyasa yoga is appreciated. Requirements: a yoga mat, other props such as blocks, straps and blankets aren't required, but you may use them as you see fit. ", 
         "everyone": "", 
-        "facilitators": "Fabienne\tMeijer", 
+        "facilitators": "Fabienne Meijer", 
         "id": "awakening-yoga", 
         "social": "y", 
         "talk": "", 
@@ -557,6 +571,20 @@
         "time": "7-8pm ET", 
         "timeblock": "wed-7pm", 
         "title": "Consultants and contractors: Let's Go It Alone … Together", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "We spent the last seven months traveling across the country in our Subaru and living in Airbnb. National parks are our backyard. We’ll share our experience of being nomads, what we’ve learned hiking every day, logistics of moving every three weeks and where we’ve found comforts along the way. Or whatever else you all want to talk about.", 
+        "everyone": "", 
+        "facilitators": "Kim Perry", 
+        "id": "national-parks-our-backyard", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "How I made national parks our backyard (let's talk about hiking, a lot)", 
         "transcription": ""
     }
 ]
