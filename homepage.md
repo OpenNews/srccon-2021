@@ -3,11 +3,11 @@ section: homepage
 permalink: /
 ---
 
-### How to be a part of SRCCON 2021
+### When & where
 
-**Attend SRCCON:** Our deadline for proposing sessions has already passed, but you can still fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+**August 11-13, online!** [Our full schedule is live](/schedule) and we couldn't be more excited. 
 
-**[Our Program](/program):** See what sessions and talks have already been confirmed. Full schedule coming soon.
+**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will be able to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
 **Key Dates for Your Calendar**:
 
@@ -15,55 +15,9 @@ permalink: /
 * **On a rolling basis**: Within a week or so of submitting our call for participation form, anyone who selects "I'd like to attend" will be notified about whether they are invited to purchase a ticket
 * **August 11-13**: SRCCON 2021, online!
 
-This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020.
+This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020. 
 
 Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
-
-### When & where
-
-**August 11-13, online!** 
-
-We’ll be gathering over three days, with generous breaks. Reserve these blocks on your calendar now:
-
-<table class="time-blocks">
-  <thead>
-    <th>Date</th>
-    <th>Blocks (all in ET)</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aug. 11 (Wed)</td>
-      <td>
-        <ul>
-          <li>12pm - 3pm</li>
-          <li>Break</li>
-          <li>5pm - 8pm</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Aug. 12 (Thurs)</td>
-      <td>
-        <ul>
-          <li>11am - 2pm</li>
-          <li>Break</li>
-          <li>4pm - 7pm</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Aug. 13 (Fri)</td>
-      <td>
-        <ul>
-          <li>10am - 1pm</li>
-          <li>Break</li>
-          <li>3pm - 6pm</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-Learn more about our how we'll make the schedule together, and other [information attendees need to know](/attendees).
 
 ### About {{ page.event_name }}
 
