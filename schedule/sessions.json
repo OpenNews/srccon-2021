@@ -337,7 +337,7 @@
     }, 
     {
         "break": "", 
-        "day": "", 
+        "day": "Friday", 
         "description": "", 
         "everyone": "y", 
         "facilitators": "", 
@@ -562,20 +562,6 @@
     {
         "break": "", 
         "day": "Wednesday", 
-        "description": "Have you thought about going freelance as a change agent or becoming a consultant? It can be incredibly rewarding to be your own boss, but also confusing and lonely, especially with so many folks working from home. In this session, we hope to build some community among people who have or want to become consultants, and also answer the burning questions people have about going freelance. How do you design and price services? How do you find clients? What does a contract look like? How do you bill? What the heck is going on with QuickBooks Self-Employed? We’ll take questions from the audience, talk about our journeys into consulting, and share whatever knowledge we can.", 
-        "everyone": "", 
-        "facilitators": "Anika Gupta, Kim Bode, Corinne Podger", 
-        "id": "consultants-and-contractors", 
-        "social": "y", 
-        "talk": "", 
-        "time": "7-8pm ET", 
-        "timeblock": "wed-7pm", 
-        "title": "Consultants and contractors: Let's Go It Alone … Together", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Wednesday", 
         "description": "We spent the last seven months traveling across the country in our Subaru and living in Airbnbs. National parks are our backyard. We’ll share our experience of being nomads, what we’ve learned hiking every day, logistics of moving every three weeks and where we’ve found comforts along the way. Or whatever else you all want to talk about.", 
         "everyone": "", 
         "facilitators": "Kim Perry", 
@@ -599,6 +585,20 @@
         "time": "7-8pm ET", 
         "timeblock": "wed-7pm", 
         "title": "Let's watch a baseball game together", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "Have you thought about going freelance as a change agent or becoming a consultant? It can be incredibly rewarding to be your own boss, but also confusing and lonely, especially with so many folks working from home. In this session, we hope to build some community among people who have or want to become consultants, and also answer the burning questions people have about going freelance. How do you design and price services? How do you find clients? What does a contract look like? How do you bill? What the heck is going on with QuickBooks Self-Employed? We’ll take questions from the audience, talk about our journeys into consulting, and share whatever knowledge we can.", 
+        "everyone": "", 
+        "facilitators": "Anika Gupta, Kim Bode, Corinne Podger", 
+        "id": "consultants-and-contractors", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "Consultants and contractors: Let's Go It Alone … Together", 
         "transcription": ""
     }, 
     {
