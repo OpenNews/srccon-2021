@@ -11,7 +11,7 @@
         "time": "12-12:30pm ET", 
         "timeblock": "wed-12pm", 
         "title": "SRCCON 2021 opening", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -25,7 +25,7 @@
         "time": "12:30-1:15pm ET", 
         "timeblock": "wed-12pm", 
         "title": "SRCCON Talks: Coming soon!", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -58,20 +58,6 @@
     {
         "break": "", 
         "day": "Wednesday", 
-        "description": "Interviewing people who have experienced trauma is difficult work, and it requires building a deep trust with your sources. The team behind CapRadio's \"After the Assault\" podcast used the theories of Participatory Journalism to collaborate with sexual assault survivors on a seven-part series about seeking justice and healing. In this session, they'll explain how reporters shifted from being neutral documenters to catalysts for change, and lay out the unconventional methods they used to gather powerful material while reducing harm to survivors.", 
-        "everyone": "", 
-        "facilitators": "Sammy Caiola, Emily Zentner", 
-        "id": "reporting-on-trauma-participatory", 
-        "social": "", 
-        "talk": "", 
-        "time": "1:45-3pm ET", 
-        "timeblock": "wed-145pm", 
-        "title": "Reporting on Trauma: Adding Participatory Journalism Tools To Your Toolbox", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Wednesday", 
         "description": "After the January 6 insurrection-slash-coup, political journalism has become more aggressive in the way it examines election fraud and disenfranchisement, but the fundamental nature of election reporting has not changed--nor has its unhealthy relationship to American democracy. In this session, we'll walk through the ways election results are broken, the ways that data journalism is intertwined with and responsible for that failure, and what we can do to fix it.", 
         "everyone": "", 
         "facilitators": "Thomas Wilburn", 
@@ -81,6 +67,20 @@
         "time": "1:45-3pm ET", 
         "timeblock": "wed-145pm", 
         "title": "Our Election Results Are Bad: Why we need to radically rethink how we report on political contests after 2020", 
+        "transcription": "y"
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "Interviewing people who have experienced trauma is difficult work, and it requires building a deep trust with your sources. The team behind CapRadio's \"After the Assault\" podcast used the theories of Participatory Journalism to collaborate with sexual assault survivors on a seven-part series about seeking justice and healing. In this session, they'll explain how reporters shifted from being neutral documenters to catalysts for change, and lay out the unconventional methods they used to gather powerful material while reducing harm to survivors.", 
+        "everyone": "", 
+        "facilitators": "Sammy Caiola, Emily Zentner", 
+        "id": "reporting-on-trauma-participatory", 
+        "social": "", 
+        "talk": "", 
+        "time": "1:45-3pm ET", 
+        "timeblock": "wed-145pm", 
+        "title": "Reporting on Trauma: Adding Participatory Journalism Tools To Your Toolbox", 
         "transcription": ""
     }, 
     {
@@ -114,6 +114,20 @@
     {
         "break": "", 
         "day": "Wednesday", 
+        "description": "Network mapping is a game-changing exercise adapted from the field of consumer marketing to inform audience outreach strategies. Join us for this interactive workshop to define who you are trying to reach with your reporting and discover how this simple, 30-minute activity will create a foundation for engagement around a story, a series, or for your entire newsroom. \n\nYou'll be guided by expert facilitators who applied this strategy to their own reporting at WBEZ in Chicago and The Beacon in Kansas City after participating in training from Hearken through Election SOS in 2020. After this session, you'll have a map to building more inclusive and insightful journalism, using a strategy that's been proven to develop reporting that serves diverse communities.", 
+        "everyone": "", 
+        "facilitators": "Bridget Thoreson, Jennifer Hack Wolf, Katherine Nagasawa", 
+        "id": "network-mapping-strategy", 
+        "social": "", 
+        "talk": "", 
+        "time": "5-6:15pm ET", 
+        "timeblock": "wed-5pm", 
+        "title": "Network mapping: Learn a 30-minute strategy to find the right audience for your next project (and have fun doing it!)", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
         "description": "The sudden DEI awakening of our newsrooms has opened doors that have been closed to journalists of color for years. Journalists of colour who were ignored for years suddenly got job offers. Stories we used to fight to cover, lost sleep over, are now in. Community-focused and relational journalism suddenly became innovative, even if most journalists of colour have been practicing it without calling it that for years. But when newsrooms change their ways because those ways are no longer serving their interests, that's not admirable, it’s strategic.\n\nYes, now you’ve hired more diversity in your teams. But do these people feel safe in your institutions? Yes, you’ve launched a diversity program, a new BIPOC fund, you’ve organized conferences on anti-racism. But has your inclusion extended to the people who dismantle white supremacy, or do you favor the ones upholding it? Have you tossed aside the people who challenge you? Did you favor the ones who didn’t?\n\nIf you are white, how has the past year benefited you as an ally? And who did your allyship benefit? Did you act to dismantle power imbalances, or did you just talk about it because it made you feel better? Equity requires discomfort. Equity means you will be challenged, questioned, and held accountable—just like real journalism. So are you listening when no one is watching you?\n\nThis session aims to address challenges that BIPOC-led media face. And proposes solutions that go beyond tokenism. How can we really make sure we're building equitable newsrooms?", 
         "everyone": "", 
         "facilitators": "Lela Savic, Matthew DiMera, Odette Auger, Mazin Sidahmed", 
@@ -123,7 +137,7 @@
         "time": "5-6:15pm ET", 
         "timeblock": "wed-5pm", 
         "title": "Beyond performative allyship: How to truly support BIPOC-led media", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -137,20 +151,6 @@
         "time": "5-6:15pm ET", 
         "timeblock": "wed-5pm", 
         "title": "Building an inspiration practice", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Wednesday", 
-        "description": "Network mapping is a game-changing exercise adapted from the field of consumer marketing to inform audience outreach strategies. Join us for this interactive workshop to define who you are trying to reach with your reporting and discover how this simple, 30-minute activity will create a foundation for engagement around a story, a series, or for your entire newsroom. \n\nYou'll be guided by expert facilitators who applied this strategy to their own reporting at WBEZ in Chicago and The Beacon in Kansas City after participating in training from Hearken through Election SOS in 2020. After this session, you'll have a map to building more inclusive and insightful journalism, using a strategy that's been proven to develop reporting that serves diverse communities.", 
-        "everyone": "", 
-        "facilitators": "Bridget Thoreson, Jennifer Hack Wolf, Katherine Nagasawa", 
-        "id": "network-mapping-strategy", 
-        "social": "", 
-        "talk": "", 
-        "time": "5-6:15pm ET", 
-        "timeblock": "wed-5pm", 
-        "title": "Network mapping: Learn a 30-minute strategy to find the right audience for your next project (and have fun doing it!)", 
         "transcription": ""
     }, 
     {
@@ -193,7 +193,7 @@
         "time": "11-11:15am ET", 
         "timeblock": "thu-11am", 
         "title": "Thursday welcome", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -207,7 +207,7 @@
         "time": "11:15am-12pm ET", 
         "timeblock": "thu-11am", 
         "title": "SRCCON Talks: Coming soon!", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -240,6 +240,20 @@
     {
         "break": "", 
         "day": "Thursday", 
+        "description": "Story framing is an important aspect of journalism, but when you’re framing a piece about a community that is underrepresented in all aspects of life it can be challenging getting it right. Join us for a facilitated discussion on how best to approach covering the 2.8% of the U.S. population who can’t just “Check one” race box. We will cover best practices for working with common data sets like the Census, how to talk to sources about their identity without sounding like a jerk, and share which storytelling tropes to avoid when talking about mixed populations.\n\nWe will also devote part of our session to sharing the experience of mixed people in the newsroom. Facilitators (and participants!) will share how workplace diversity initiatives can be inclusive of multiracial individuals, explain strategies for best supporting mixed race journalists, and share stories of the lived experience of being mixed race.", 
+        "everyone": "", 
+        "facilitators": "Jasmine Mithani, Kaitlyn Wells, Caitlin Gilbert, Lakshmi Sarah", 
+        "id": "mixed-race-in-journalism", 
+        "social": "", 
+        "talk": "", 
+        "time": "12:30-1:45pm ET", 
+        "timeblock": "thu-1230pm", 
+        "title": "When “Check One” Doesn’t Apply: Covering (And Being) Mixed Race in Journalism", 
+        "transcription": "y"
+    }, 
+    {
+        "break": "", 
+        "day": "Thursday", 
         "description": "As some news organizations have begun to examine their role in perpetuating white supremacy through their coverage and business practices, big questions remain about the responsibility of editors and managers for the climate and culture they perpetuate inside newsrooms. What does—and should—accountability look like in these organizations, especially when things go wrong? The two most common options are to do nothing or to fire someone. But those can’t be the only ways forward.\n\nWe come to this discussion with more questions than answers: What accountability measures work best to create inclusive cultures? What is the right balance between transparency and privacy when it comes to accountability? And what can we do to ensure accountability measures don’t just re-harm the most vulnerable in newsrooms? We hope you’ll bring your big ideas for how to look at this thorny issue and how we can all play a role in creating trusted and effective accountability processes.", 
         "everyone": "", 
         "facilitators": "Amy Kovac-Ashley, Angela Saunders", 
@@ -268,15 +282,15 @@
     {
         "break": "", 
         "day": "Thursday", 
-        "description": "Story framing is an important aspect of journalism, but when you’re framing a piece about a community that is underrepresented in all aspects of life it can be challenging getting it right. Join us for a facilitated discussion on how best to approach covering the 2.8% of the U.S. population who can’t just “Check one” race box. We will cover best practices for working with common data sets like the Census, how to talk to sources about their identity without sounding like a jerk, and share which storytelling tropes to avoid when talking about mixed populations.\n\nWe will also devote part of our session to sharing the experience of mixed people in the newsroom. Facilitators (and participants!) will share how workplace diversity initiatives can be inclusive of multiracial individuals, explain strategies for best supporting mixed race journalists, and share stories of the lived experience of being mixed race.", 
+        "description": "We communicate with our audience through the power of storytelling. So why don't we write like this for each other internally? We often communicate with colleagues through acronyms, bullet-pointed status reports, and procedural forms. Rarely do these get read, and even more rarely do they serve the purpose of communicating.\n\nStories help us consider our audience and consider what it is we're really trying to communicate—as well as helping us avoid scope creep and stay focused on our main objectives. Let's practice taking that type of care in communication with one another. This will create transparency, aid collaboration, and clarify priorities in your teams and organization.", 
         "everyone": "", 
-        "facilitators": "Jasmine Mithani, Kaitlyn Wells, Caitlin Gilbert, Lakshmi Sarah", 
-        "id": "mixed-race-in-journalism", 
+        "facilitators": "Marina Guvenc, Mariah Craddick", 
+        "id": "writing-for-each-other", 
         "social": "", 
         "talk": "", 
-        "time": "12:30-1:45pm ET", 
-        "timeblock": "thu-1230pm", 
-        "title": "When “Check One” Doesn’t Apply: Covering (And Being) Mixed Race in Journalism", 
+        "time": "4-5:15pm ET", 
+        "timeblock": "thu-4pm", 
+        "title": "Writing Stories for Each Other", 
         "transcription": ""
     }, 
     {
@@ -291,7 +305,7 @@
         "time": "4-5:15pm ET", 
         "timeblock": "thu-4pm", 
         "title": "Replacing Objectivity with Actual Values", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -305,20 +319,6 @@
         "time": "4-5:15pm ET", 
         "timeblock": "thu-4pm", 
         "title": "Selling Cross-Newsroom Collaborations: Pitching Your Uphill Decision-Makers", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Thursday", 
-        "description": "We communicate with our audience through the power of storytelling. So why don't we write like this for each other internally? We often communicate with colleagues through acronyms, bullet-pointed status reports, and procedural forms. Rarely do these get read, and even more rarely do they serve the purpose of communicating.\n\nStories help us consider our audience and consider what it is we're really trying to communicate—as well as helping us avoid scope creep and stay focused on our main objectives. Let's practice taking that type of care in communication with one another. This will create transparency, aid collaboration, and clarify priorities in your teams and organization.", 
-        "everyone": "", 
-        "facilitators": "Marina Guvenc, Mariah Craddick", 
-        "id": "writing-for-each-other", 
-        "social": "", 
-        "talk": "", 
-        "time": "4-5:15pm ET", 
-        "timeblock": "thu-4pm", 
-        "title": "Writing Stories for Each Other", 
         "transcription": ""
     }, 
     {
@@ -347,7 +347,7 @@
         "time": "11:15-11:30am ET", 
         "timeblock": "fri-1115am", 
         "title": "Friday welcome", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -366,20 +366,6 @@
     {
         "break": "", 
         "day": "Friday", 
-        "description": "You may have a great career—or you might feel stuck. You’ve worked hard to get where you are—or you’re still searching for the right fit. The pandemic has changed how we feel about work, and now for many of us, work just isn’t working out. More and more people are “taking a break” to figure out what’s next. If you’re thinking about hitting the pause button in your career but don’t know where to start, join us for this session. Jessica Morrison and David Smydra will share motivations behind and lessons learned from recent career breaks, and you’ll have an opportunity to explore what taking a break looks like for you.", 
-        "everyone": "", 
-        "facilitators": "Jessica Morrison, David Smydra", 
-        "id": "give-yourself-a-break", 
-        "social": "", 
-        "talk": "", 
-        "time": "11:30am-12:45pm ET", 
-        "timeblock": "fri-1130am", 
-        "title": "Give Yourself a Break: An Instruction Manual", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Friday", 
         "description": "The International Consortium of Investigative Journalists is best known for forming the world’s biggest journalistic collaborations between teams who work together for months, in secret, to publish investigations like the Panama Papers and FinCEN Files.\n\nBut how do you get hundreds of reporters operating in vastly different environments to effectively work together? A key part of the answer for ICIJ has been technology—and an iterative, year-round approach to making our tools, platforms and editorial processes more equitable, inclusive and accessible.\n\nIn this session, we’ll share what we’ve learned from two decades of working with partners around the world on addressing barriers as wide-ranging as: Internet access, press freedom, security, language, budget, equipment, staff size and building trust between investigative reporters accustomed to guarding their scoops.\n\nWe know ICIJ is unique in scope, but our model took years to build and we've operated at many scales. So in part two of this session, we’ll discuss barriers you’ve faced in fostering effective, equitable, inclusive collaboration between departments in your newsroom—or between news organizations in your market—and explore how the principles that underlie our approach might point toward solutions and the resources you’d need to get there.", 
         "everyone": "", 
         "facilitators": "Asraa Mustufa, Delphine Reuter, Soline Ledésert", 
@@ -389,6 +375,20 @@
         "time": "11:30am-12:45pm ET", 
         "timeblock": "fri-1130am", 
         "title": "Radical sharing: Tools and strategies that make collaborative investigations work", 
+        "transcription": "y"
+    }, 
+    {
+        "break": "", 
+        "day": "Friday", 
+        "description": "You may have a great career—or you might feel stuck. You’ve worked hard to get where you are—or you’re still searching for the right fit. The pandemic has changed how we feel about work, and now for many of us, work just isn’t working out. More and more people are “taking a break” to figure out what’s next. If you’re thinking about hitting the pause button in your career but don’t know where to start, join us for this session. Jessica Morrison and David Smydra will share motivations behind and lessons learned from recent career breaks, and you’ll have an opportunity to explore what taking a break looks like for you.", 
+        "everyone": "", 
+        "facilitators": "Jessica Morrison, David Smydra", 
+        "id": "give-yourself-a-break", 
+        "social": "", 
+        "talk": "", 
+        "time": "11:30am-12:45pm ET", 
+        "timeblock": "fri-1130am", 
+        "title": "Give Yourself a Break: An Instruction Manual", 
         "transcription": ""
     }, 
     {
@@ -422,6 +422,20 @@
     {
         "break": "", 
         "day": "Friday", 
+        "description": "For a lot of us, remote work is here to stay. COVID-19 changed how we work, and now even traditional newsrooms are allowing some forms of remote work—and some jobs are simply staying that way. Let's discuss ways to make remote work successful and equitable, how to build relationships virtually and make online communities like Slack both fun and productive.\n\nFor newsrooms that haven't fully embraced the shift, let's help each other make the case for a work environment that works for us! How can we equip each other to argue for remote work if our companies are trying to bring people back to the office?", 
+        "everyone": "", 
+        "facilitators": "Rachel Glickhouse, Vignesh Ramachandran\n", 
+        "id": "remote-work-success", 
+        "social": "", 
+        "talk": "", 
+        "time": "3-4:15pm ET", 
+        "timeblock": "fri-3pm", 
+        "title": "Making remote work successful in a (hopefully soon) post-COVID world", 
+        "transcription": "y"
+    }, 
+    {
+        "break": "", 
+        "day": "Friday", 
         "description": "The past decade of journo-nerd innovation has seen endless creativity and experimentation to drive forward new approaches and ideas for building better reporting, whether it's helping scale data analysis, mine for hidden connections, or finding ways to highlight where our newsrooms fail to fully serve their communities. Perhaps inevitably, most of these ideas end up as preserved but unused GitHub accounts, many before ever reaching a critical mass to test their potential. \n\nBuilding on DocumentCloud, we're interested in exploring a new approach to help bootstrap promising ideas to reach a wider audience, particularly in the hands of newsrooms often overlooked for support, as well as other ways to take some of the burden off maintainers and support their ongoing existence and refinement. We're interested in hearing about other efforts in this space, whether for sustaining efforts or just the challenges independent project maintainers run into, as well as feedback from newsroom developers, academic prototypers, and others who'd like to see a more sustainable way to build, test, and maintain the tools newsrooms need to fulfill their work.", 
         "everyone": "", 
         "facilitators": "Michael Morisy, Brandon Roberts, Kai Teoh", 
@@ -450,20 +464,6 @@
     {
         "break": "", 
         "day": "Friday", 
-        "description": "For a lot of us, remote work is here to stay. COVID-19 changed how we work, and now even traditional newsrooms are allowing some forms of remote work—and some jobs are simply staying that way. Let's discuss ways to make remote work successful and equitable, how to build relationships virtually and make online communities like Slack both fun and productive.\n\nFor newsrooms that haven't fully embraced the shift, let's help each other make the case for a work environment that works for us! How can we equip each other to argue for remote work if our companies are trying to bring people back to the office?", 
-        "everyone": "", 
-        "facilitators": "Rachel Glickhouse, Vignesh Ramachandran\n", 
-        "id": "remote-work-success", 
-        "social": "", 
-        "talk": "", 
-        "time": "3-4:15pm ET", 
-        "timeblock": "fri-3pm", 
-        "title": "Making remote work successful in a (hopefully soon) post-COVID world", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Friday", 
         "description": "", 
         "everyone": "", 
         "facilitators": "", 
@@ -473,7 +473,7 @@
         "time": "4:30-5:15pm ET", 
         "timeblock": "fri-430pm", 
         "title": "SRCCON Talks: Coming soon!", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -487,7 +487,7 @@
         "time": "5:15-6pm ET", 
         "timeblock": "fri-515pm", 
         "title": "SRCCON Closing", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
