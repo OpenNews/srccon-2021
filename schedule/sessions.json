@@ -86,7 +86,7 @@
     {
         "break": "", 
         "day": "Wednesday", 
-        "description": "Inequality is the most important story of our time. And data is vital to producing stories about divides across race, gender, disability and more. Join us to dig into the data and techniques behind stories like:\n\n* [Reveal For people of color, banks are shutting the door to homeownership](https://revealnews.org/article/for-people-of-color-banks-are-shutting-the-door-to-homeownership/)\n* [ProPublica: How we analyzed presidential pardons](https://www.propublica.org/article/how-we-analyzed-pardons)\n* [Reveal: Here’s the clearest picture of Silicon Valley’s diversity yet: It’s bad. But some companies are doing less bad](https://revealnews.org/article/heres-the-clearest-picture-of-silicon-valleys-diversity-yet/)\n* [APM Reports: Mississippi D.A. Doug Evans has long history of striking Black people from juries](https://features.apmreports.org/in-the-dark/mississippi-da-doug-evans-striking-black-people-from-juries/)\n\nWe’ll do some activities to help you understand the kinds of complex analysis that these stories often require, and we’ll talk about best practices for producing stories around the data of divides. We might even bring some songs to help you remember some of the steps to doing stats.", 
+        "description": "Inequality is the most important story of our time. And data is vital to producing stories about divides across race, gender, disability and more. Join us to dig into the data and techniques behind stories like:\n\n* [Reveal: For people of color, banks are shutting the door to homeownership](https://revealnews.org/article/for-people-of-color-banks-are-shutting-the-door-to-homeownership/)\n* [ProPublica: How we analyzed presidential pardons](https://www.propublica.org/article/how-we-analyzed-pardons)\n* [Reveal: Here’s the clearest picture of Silicon Valley’s diversity yet: It’s bad. But some companies are doing less bad](https://revealnews.org/article/heres-the-clearest-picture-of-silicon-valleys-diversity-yet/)\n* [APM Reports: Mississippi D.A. Doug Evans has long history of striking Black people from juries](https://features.apmreports.org/in-the-dark/mississippi-da-doug-evans-striking-black-people-from-juries/)\n* [APM Reports: In the Dark](https://www.apmreports.org/episode/2018/06/12/in-the-dark-s2e8)\n\nWe’ll do some activities to help you understand the kinds of complex analysis that these stories often require, and we’ll talk about best practices for producing stories around the data of divides. We might even bring some songs to help you remember some of the steps to doing stats.", 
         "everyone": "", 
         "facilitators": "Jennifer LaFleur, Sinduja Rangarajan", 
         "id": "data-of-divides", 
@@ -94,7 +94,7 @@
         "talk": "", 
         "time": "1:45-3pm ET", 
         "timeblock": "wed-145pm", 
-        "title": "The Data of Divides", 
+        "title": "The Data of Divides: Analysis & stats for covering inequality", 
         "transcription": ""
     }, 
     {
@@ -604,6 +604,20 @@
     {
         "break": "", 
         "day": "Wednesday", 
+        "description": "The Source column, [Sincerely, Leaders of Color](https://source.opennews.org/articles/tags/sincerely-leaders-of-color/), is about getting answers to problems around leadership and DEI that will lead to better workplaces for everyone, but especially journalists of color. Join us for a live workshop where we answer folks' questions live as a group, in the no holds barred, kind-filled candor typical of the hosts of Sincerely, Leaders of Color (and maybe some special guests!). ", 
+        "everyone": "", 
+        "facilitators": "Emma Carew Grovum, Kim Bui", 
+        "id": "sincerely-leaders-of-color-live", 
+        "social": "y", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "wed-7pm", 
+        "title": "​Ask the questions you're scared to ask: Sincerely, Leaders of Color LIVE", 
+        "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
         "description": "More information coming soon!", 
         "everyone": "", 
         "facilitators": "Andrew Kan, Kate Myers", 
@@ -613,20 +627,6 @@
         "time": "7-8pm ET", 
         "timeblock": "wed-7pm", 
         "title": "How to solve a Rubik's cube", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Wednesday", 
-        "description": "More information coming soon!", 
-        "everyone": "", 
-        "facilitators": "Emma Carew Grovum, Kim Bui", 
-        "id": "sincerely-leaders-of-color-live", 
-        "social": "y", 
-        "talk": "", 
-        "time": "7-8pm ET", 
-        "timeblock": "wed-7pm", 
-        "title": "Sincerely, Leaders of Color LIVE", 
         "transcription": ""
     }, 
     {
