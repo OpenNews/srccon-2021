@@ -195,8 +195,8 @@ p.meta {
 
 .btn {
     display: inline-block;
-    background: #CF455D;
-    padding: 5px 10px;
+    background: #fc6e1f;
+    padding: 5px 10px 10px;
     border-radius: 3px;
     color: #fff;
     text-align: center;
@@ -204,7 +204,7 @@ p.meta {
 }
 
 .btn:hover {
-    background: #CF455D;
+    background: #fc6e1f;
 }
 
 #schedule {
