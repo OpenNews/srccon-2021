@@ -7,7 +7,7 @@ permalink: /
 
 **August 11-13, online!** [Our full schedule is live](/schedule) and we couldn't be more excited. 
 
-**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep it open as long as we have space! If invited to attend, you will be able to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep the form open as long as we have space! If invited to attend, you will be able to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets). This process allows us to facilitate meaningful conversations and make sure SRCCON remains access to a broad group of people.
 
 **Key Dates for Your Calendar**:
 
@@ -17,7 +17,7 @@ permalink: /
 
 This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020. 
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
+Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021. There won't be a separate ticket lottery or sale date, so if you want to come to SRCCON 2021, our call for participation will be how to let us know! We will keep the call for participation open as long as tickets remain available, but submitting the form early is your best chance to attend.
 
 ### About {{ page.event_name }}
 
