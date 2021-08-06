@@ -38,7 +38,8 @@
 <body class="hub{% if page.section %} {{ page.section }}{% endif %}">
     <header class="page-container">
         <nav id="hub-nav" class="mini-nav">
-            <a id="back-home" href="/">&larr;<span class="narrow-hide"> {{ page.event_name }}</span> Home</a> • <a href="/attendees">Attendee Info</a> • <a href="/schedule">Schedule</a>
+            <a id="main-logo" class="mini" href="/"><img src="/media/img/srccon-for-participants.png"></a>
+            <a id="back-home" href="/"><span class="narrow-hide"> {{ page.event_name }}</span> Home</a> • <a href="/attendees">Attendee Info</a> • <a href="/schedule">Schedule</a>
             {% if page.cta_button_text %}
             <a href="{{ page.cta_button_link }}" class="button">{{ page.cta_button_text }}</a>
             {% else %}

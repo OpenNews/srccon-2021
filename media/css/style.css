@@ -122,8 +122,9 @@ strong {
 }
 
 .hub #main-logo.mini img {
-    vertical-align: middle;
-    width:  100px;
+    width: 300px;
+    display: block;
+    margin: 0 0 0px 2px;
 }
 
 .hub .page-intro {

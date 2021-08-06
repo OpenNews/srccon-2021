@@ -1,12 +1,12 @@
 ---
 section: participant prep
 permalink: /participant-prep/
-title: Preparing for SRCCON 
+title: Preparing for SRCCON
 layout: mini_top
 ---
 
-# Preparing for SRCCON
-As SRCCON approaches, here's everything you need to know to prepare for the conference and get everything setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](TK), and in our conference Slack.
+# Preparing for SRCCON 2021
+As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](TK), and in our conference Slack.
 
 ### KEY LINKS
 * ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](TK) ⭐️ — Where Zoom links for all SRCCON programming lives. Once SRCCON starts, you'll have this page open ALL the time.
