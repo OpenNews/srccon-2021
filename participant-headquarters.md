@@ -1,16 +1,15 @@
 ---
+section: participant prep
+permalink: /participant-prep/
+title: Preparing for SRCCON 
 layout: mini_top
-section: participant headquarters
-permalink: /participant-headquarters/
-title: SRCCON:2021 Participant Headquarters 
 ---
 
-# SRCCON:2021 Participant HQ 
-
-August 11-13, 2021
+# Preparing for SRCCON
+As SRCCON approaches, here's everything you need to know to prepare for the conference and get everything setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](TK), and in our conference Slack.
 
 ### KEY LINKS
-* Session Zoom Links on Eventbrite: Link coming soon (Participant access only)
+* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](TK) ⭐️ — Where Zoom links for all SRCCON programming lives. Once SRCCON starts, you'll have this page open ALL the time.
 * [Public Schedule](https://2021.srccon.org/schedule/)
 * [Code of Conduct](https://2021.srccon.org/conduct/)
 * [Care and Support](https://2021.srccon.org/support/)
@@ -48,7 +47,7 @@ You can log into Eventbrite to [access the event](https://2021.srccon.org/signin
 Normally, you might be picking up your welcome packet and pronoun pins when you arrive, so we wanted to give you a short, digital orientation too.
 
 #### 🔖 Step 1: Grab your name tag.
-When you receive your Slack invite, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!** **Missing your Slack invite? Grab the direct sign-up link on [our Eventbrite page](https://2021.srccon.org/signin/).
+When you receive your Slack invite, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead! **Missing your Slack invite?** Grab the direct sign-up link on [our Eventbrite page](https://2021.srccon.org/signin/).
 
 #### 🧷 Step 2: Add your pronoun pin.
 In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names. For example, “Sisi Wei (she/her).” Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
