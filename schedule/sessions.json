@@ -240,20 +240,6 @@
     {
         "break": "", 
         "day": "Thursday", 
-        "description": "Interviewing people who have experienced trauma is difficult work, and it requires building a deep trust with your sources. The team behind CapRadio's \"After the Assault\" podcast used the theories of Participatory Journalism to collaborate with sexual assault survivors on a seven-part series about seeking justice and healing. In this session, they'll explain how reporters shifted from being neutral documenters to catalysts for change, and lay out the unconventional methods they used to gather powerful material while reducing harm to survivors.", 
-        "everyone": "", 
-        "facilitators": "Sammy Caiola, Emily Zentner", 
-        "id": "reporting-on-trauma-participatory", 
-        "social": "", 
-        "talk": "", 
-        "time": "12:30-1:45pm ET", 
-        "timeblock": "thu-1230pm", 
-        "title": "Reporting on Trauma: Adding Participatory Journalism Tools To Your Toolbox", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Thursday", 
         "description": "Story framing is an important aspect of journalism, but when you’re framing a piece about a community that is underrepresented in all aspects of life it can be challenging getting it right. Join us for a facilitated discussion on how best to approach covering the 2.8% of the U.S. population who can’t just “Check one” race box. We will cover best practices for working with common data sets like the Census, how to talk to sources about their identity without sounding like a jerk, and share which storytelling tropes to avoid when talking about mixed populations.\n\nWe will also devote part of our session to sharing the experience of mixed people in the newsroom. Facilitators (and participants!) will share how workplace diversity initiatives can be inclusive of multiracial individuals, explain strategies for best supporting mixed race journalists, and share stories of the lived experience of being mixed race.", 
         "everyone": "", 
         "facilitators": "Jasmine Mithani, Kaitlyn Wells, Caitlin Gilbert, Lakshmi Sarah", 
@@ -264,6 +250,20 @@
         "timeblock": "thu-1230pm", 
         "title": "When “Check One” Doesn’t Apply: Covering (And Being) Mixed Race in Journalism", 
         "transcription": "y"
+    }, 
+    {
+        "break": "", 
+        "day": "Thursday", 
+        "description": "Interviewing people who have experienced trauma is difficult work, and it requires building a deep trust with your sources. The team behind CapRadio's \"After the Assault\" podcast used the theories of Participatory Journalism to collaborate with sexual assault survivors on a seven-part series about seeking justice and healing. In this session, they'll explain how reporters shifted from being neutral documenters to catalysts for change, and lay out the unconventional methods they used to gather powerful material while reducing harm to survivors.", 
+        "everyone": "", 
+        "facilitators": "Sammy Caiola, Emily Zentner", 
+        "id": "reporting-on-trauma-participatory", 
+        "social": "", 
+        "talk": "", 
+        "time": "12:30-1:45pm ET", 
+        "timeblock": "thu-1230pm", 
+        "title": "Reporting on Trauma: Adding Participatory Journalism Tools To Your Toolbox", 
+        "transcription": ""
     }, 
     {
         "break": "", 
