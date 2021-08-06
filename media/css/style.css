@@ -17,6 +17,32 @@ body {
 	min-height: 100vh;
     font-family: freight-text-pro, serif;
 }
+
+body.participant.headquarters main p {
+    font-size:  0.95em;
+}
+
+.participant.headquarters header {
+    margin-bottom:  1.5em;
+}
+
+body.participant.headquarters .page-container ul:nth-of-type(-n+2) {
+    font-family: sofia-pro, sans-serif;
+    font-size:  1.3rem;
+    line-height:  2rem;
+}
+
+body.participant.headquarters h2 {
+    margin: 0.8em 0 .5em;
+}
+
+body.participant.headquarters h4 {
+    font-size: 1.2rem;
+    color: #fc6e1f;
+    text-transform: uppercase;
+    margin: 2em 0 0.8em;
+}
+
 header, footer, h1, h2, h3, h4, .button {
     font-family: sofia-pro, sans-serif;
 }
@@ -80,9 +106,25 @@ strong {
 .hub #hub-nav {
     text-align: center;
 }
+
+.hub #hub-nav.mini-nav {
+    text-align: left;
+}
+
+.mini-nav > a {
+    font-size: 1.1rem;
+    margin: 0 4px;
+}
+
 .hub #main-logo img {
     width: 600px;
 }
+
+.hub #main-logo.mini img {
+    vertical-align: middle;
+    width:  100px;
+}
+
 .hub .page-intro {
     text-align: center;
     margin: 0 -4em 1em;
@@ -359,6 +401,7 @@ header nav a:hover {
     color: #fff;
     text-shadow: 0 0 1px rgba(0,0,0,.7);
 }
+
 
 /* MAIN CONTENT AREA STYLES */
 main {
