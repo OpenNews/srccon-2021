@@ -24,7 +24,9 @@ body.participant.prep main p, body.participant.prep main ul {
 }
 
 .participant.prep header {
-    margin-bottom:  1.5em;
+    margin: 1em auto 1.5em;
+    border-bottom: 1px solid #ddd;
+    padding: 0 0 0.7em;
 }
 
 body.participant.prep .page-container ul:nth-of-type(-n+2) {
@@ -112,6 +114,11 @@ strong {
     text-align: left;
 }
 
+.hub #hub-nav.mini-nav .mini {
+    display: block;
+    margin: 0 0 -14px 0;
+}
+
 .mini-nav > a {
     font-size: 1.1rem;
     margin: 0 4px;
@@ -123,7 +130,6 @@ strong {
 
 .hub #main-logo.mini img {
     width: 300px;
-    display: block;
     margin: 0 0 0px 2px;
 }
 
@@ -455,6 +461,20 @@ main input {
 .sponsor-block h2,
 .sponsor-block h3 {
     text-align: center;
+}
+
+.step {
+    display: flex;
+}
+
+.step .icon {
+    min-width: 150px;
+    width: 150px;
+    margin: 1.5em 20px 0 0;
+}
+
+.step .icon img {
+    width:  100%;
 }
 
 /* FOOTER STYLES */
@@ -1003,6 +1023,17 @@ p.facilitator + p.session-description {
     .hub .page-intro .big-type {
         font-size: 1.4em;
     }
+
+    .step {
+        display: block;
+    }
+
+    .step .icon {
+        min-width: 150px;
+        width: 150px;
+        margin: 0 0 -20px 0;
+    }
+
 }
 
 @media screen and (max-width: 360px) {

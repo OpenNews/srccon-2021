@@ -6,10 +6,10 @@ layout: mini_top
 ---
 
 # Preparing for SRCCON 2021
-As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](TK), and in our conference Slack.
+As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](https://2021.srccon.org/signin), and in our conference Slack.
 
 ### KEY LINKS
-* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](TK) ⭐️ — Where Zoom links for all SRCCON programming lives. Once SRCCON starts, you'll have this page open ALL the time.
+* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](https://2021.srccon.org/signin) ⭐️ — Where Zoom links for all SRCCON programming lives. Once SRCCON starts, you'll have this page open ALL the time.
 * [Public Schedule](https://2021.srccon.org/schedule/)
 * [Code of Conduct](https://2021.srccon.org/conduct/)
 * [Care and Support](https://2021.srccon.org/support/)
@@ -42,26 +42,47 @@ Make sure you’ve [installed or updated the latest version of Zoom](https://sup
 #### Once SRCCON starts:
 You can log into Eventbrite to [access the event](https://2021.srccon.org/signin). (Be sure to use the same email address you used when you registered.) From there, you will see individual Zoom links you can click to join each talk or session.
 
-
 ## All registered? Step right up to the virtual registration booth!
 Normally, you might be picking up your welcome packet and pronoun pins when you arrive, so we wanted to give you a short, digital orientation too.
 
-#### 🔖 Step 1: Grab your name tag.
+<div class="registration">
+<div class="step">
+<div class="icon"><img src="/media/img/name.png"></div>
+<div class="markdown" markdown="1">
+#### Step 1: Grab your name tag.
 When you receive your Slack invite, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead! **Missing your Slack invite?** Grab the direct sign-up link on [our Eventbrite page](https://2021.srccon.org/signin/).
+</div>
+</div>
 
-#### 🧷 Step 2: Add your pronoun pin.
+<div class="step">
+<div class="icon"><img src="/media/img/pronouns.png"></div>
+<div class="markdown" markdown="1">
+#### Step 2: Add your pronoun pin.
 In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names. For example, “Sisi Wei (she/her).” Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
+</div>
+</div>
 
-#### 🗺 Step 3: Your map of our facilities.
+<div class="step">
+<div class="icon"><img src="/media/img/map.png"></div>
+<div class="markdown" markdown="1">
+#### Step 3: Your map of our facilities.
 This year, SRCCON will have direct Zoom links for all our talks, sessions, and meetups, and we can create more of them as you sign up to lead your own meetups. Getting a hold of your bearings will be easy though. We’ll be posting direct Zoom links to every event on [our Eventbrite page](https://2021.srccon.org/signin/). Consider it your digital map. Please bookmark it!
+</div>
+</div>
 
-#### 🧡 Step 4: Our contact info for questions.
+<div class="step">
+<div class="icon"><img src="/media/img/contact.png"></div>
+<div class="markdown" markdown="1">
+#### Step 4: Our contact info for questions.
 If you’ve got general questions about anything, post your question in these two Slack channels:
 
 * **#00-tech-support** — For anytime you need help with the tech we’re using for SRCCON
 * **#00-questions** — For any and all other questions you might have
 
 If you have private, safety-related questions, stay tuned. We’ll be updating this page with more information about care and safety this year, and how you can bring up those concerns throughout SRCCON.
+</div>
+</div>
+</div>
 
 ## Use Slack to network and connect during SRCCON
 
