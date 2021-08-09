@@ -27,6 +27,7 @@ As SRCCON approaches, here's everything you need to know to prepare for the conf
 * FAQ
   * [How do I get help if I’m having issues?](#how-do-i-get-help-if-im-having-issues)
   * [How much of SRCCON will be recorded and available after the conference?](#how-much-of-srccon-will-be-recorded-and-available-after-the-conference)
+  * [What parts of SRCCON can I share publicly on social media, or privately with people who are not SRCCON participants?](#what-parts-of-srccon-can-i-share-publicly-on-social-media-or-privately-with-people-who-are-not-srccon-participants)
   * [How can I be a great SRCCON participant?](#how-can-i-be-a-great-srccon-participant)
     * [Create a welcoming digital environment](#create-a-welcoming-digital-environment)
     * [Only share links with participants](#only-share-links-with-participants)
@@ -152,6 +153,19 @@ We’ll be recording our opening staff welcome, and we’ll make that available 
 All of our talks will be recorded too, and available to participants during the conference.
 
 We will_ not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to participants.
+
+## What parts of SRCCON can I share publicly on social media, or privately with people who are not SRCCON participants?
+
+For SRCCON participants only, **do not share these**:
+
+* Zoom links to SRCCON talks/sessions 
+* Talks/session google docs
+* Talks recordings
+* Transcripts
+* Our virtual bullet board
+
+We’ll be sharing additional guidance on what parts of SRCCON can and cannot be shared soon.
+
 
 
 ## How can I be a great SRCCON participant?
