@@ -9,7 +9,7 @@ layout: mini_top
 As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](https://2021.srccon.org/signin), and in our conference Slack.
 
 ### KEY LINKS
-* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](https://2021.srccon.org/signin) ⭐️ — Where Zoom links for all SRCCON programming lives. Once SRCCON starts, you'll have this page open ALL the time.
+* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](https://2021.srccon.org/signin) ⭐️ — Where Zoom links for all SRCCON programming lives, as well as links to our Virtual Bulletin Board. Once SRCCON starts, you'll have this page open ALL the time.
 * [Public Schedule](https://2021.srccon.org/schedule/)
 * [Code of Conduct](https://2021.srccon.org/conduct/)
 * [Care and Support](https://2021.srccon.org/support/)
