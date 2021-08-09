@@ -80,7 +80,7 @@ If you’ve got general questions about anything, post your question in these tw
 * **#00-tech-support** — For anytime you need help with the tech we’re using for SRCCON
 * **#00-questions** — For any and all other questions you might have
 
-If you have private, safety-related questions, stay tuned. We’ll be updating this page with more information about care and safety this year, and how you can bring up those concerns throughout SRCCON.
+If you have private, safety-related questions, please check out our [Code of Conduct](https://2021.srccon.org/conduct/) and [Care and Support](https://2021.srccon.org/support/) page for information about how you can bring up those concerns throughout SRCCON.
 </div>
 </div>
 </div>
