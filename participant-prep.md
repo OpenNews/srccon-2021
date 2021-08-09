@@ -28,7 +28,9 @@ As SRCCON approaches, here's everything you need to know to prepare for the conf
   * [How do I get help if I’m having issues?](#how-do-i-get-help-if-im-having-issues)
   * [How much of SRCCON will be recorded and available after the conference?](#how-much-of-srccon-will-be-recorded-and-available-after-the-conference)
   * [How can I be a great SRCCON participant?](#how-can-i-be-a-great-srccon-participant)
-    * [Only share links with participants](#only-share-links)
+    * [Create a welcoming digital environment](#create-a-welcoming-digital-environment)
+    * [Only share links with participants](#only-share-links-with-participants)
+    * [Be aware of our power dynamics and privilege](#be-aware-of-our-power-dynamics-and-privilege)
 
 ### SETTING UP FOR SRCCON
 
@@ -156,20 +158,19 @@ We will_ not_ be recording any of our sessions, though some of them will have li
 
 Just like previous years, SRCCON 2021 is a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had. There are tons of ways for all participants to help us create and reinforce this environment.
 
-Here’s how we always hope you’ll participate:
+#### How we always hope you’ll participate:
 
 * Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself —not panels where you sit back and listen, but sessions where you participate and learn.
 * Connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
 * Bring who you are into a conference that thinks about the program, the schedule—even breaks & activities—as ways to celebrate everything you have to share.
 
-This year, at an online SRCCON, we also hope that you’ll help us create a welcoming digital environment by:
+#### Create a welcoming digital environment:
 
-* **Being generous with +1s and emojis.** During talks and sessions, speakers and facilitators won’t be able to see your expressions as clearly, or hear your claps or snaps — so give them positive feedback digitally in the chat, and be generous!
+* **Be generous with +1s and emojis.** During talks and sessions, speakers and facilitators won’t be able to see your expressions as clearly, or hear your claps or snaps — so give them positive feedback digitally in the chat, and be generous!
 * **Help us maintain our focus on you, the community, and not your employer.** At in-person SRCCON events, we’ve always made the decision to never show a person’s place of work on their name badge. We’re carrying that over to SRCCON online by hiding your emails in Slack (which often reveal your employer), and by encouraging you to talk about your interests and passions first when making connections.
 * **Support one another.** In-person, we like to follow the [pac man rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). Digitally, we can support each other by following the same spirit. Especially with a video chat setup, it can be hard to get a word in. If you see someone else trying to get a word in, help make sure they get a chance to speak. If you see someone looking for help in Slack, lend an ear. 
 
-<span id="only-share-links"></span>
-Finally, you can help us by **only sharing links with participants.**
+#### Only share links with participants
 
 At previous SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. This time, we’d like to ask for your help to make sure that all of our programming is only shared with participants. There’s two main reasons for this:
 
@@ -178,6 +179,13 @@ First, it’s extremely important to us that all SRCCON participants are held ac
 Second, just like in-person SRCCON, we’re here to create a smaller environment where you have a chance to get to know each person in your sessions, and so people can feel comfortable sharing about and workshopping difficult challenges in their work or personal life. We deliberately decided to put a similar cap on the number of participants at SRCCON online, just as we would an in-person event, because we want to maintain that same sense of comfort so participants can still be vulnerable with one another. Similarly, our facilitators are also all preparing for a normal-for-SRCCON sized session. Even if a handful of SRCCON participants invited extra folks, that’s enough to increase our session sizes by 50% or higher. Please help us avoid this situation.
 
 We don’t anticipate this being a problem at SRCCON, but we wanted to make sure we were both upfront and transparent about our thought process.
+
+#### Be aware of our power dynamics and privilege
+
+As we get ready to share space together online, we suggest all participants check out [this resource about power dynamics and inclusion online](https://aspirationtech.org/blog/virtualmeetingpowerdynamics) to get a sense of the different levels of access and power we’ll all bring to this event. 
+
+Hosting a virtual conference is also an opportunity for us to reflect on the racism inherent in the digital systems that we rely on for SRCCON and in our day-to-day work. In some Minneapolis neighborhoods (a few miles from our usual venue), many households — over 50% in some areas — go [without an internet subscription](https://hennepin.maps.arcgis.com/apps/webappviewer/index.html?id=681c2b9d9bea4522bc516fa130d1c71e). Accessing a digital space for SRCCON is a privilege that we must recognize and it is one we get to explore and experiment with together to dream big and talk about the challenges facing journalism and the communities we serve. 
+
 
 
 ## I’ve got another question!
