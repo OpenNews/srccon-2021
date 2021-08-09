@@ -9,7 +9,7 @@ layout: mini_top
 As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](/signin), and in our conference Slack.
 
 ### KEY LINKS
-* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](/signin) ⭐️ — Where Zoom links for all SRCCON programming lives, as well as links to our Virtual Bulletin Board. Once SRCCON starts, you'll have this page open ALL the time.
+* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](/signin) ⭐️ — Where Zoom links for all SRCCON programming lives, as well as links to our Virtual Bulletin Board. Once SRCCON starts, you'll have this page open ALL the time. (Only SRCCON participants will be able to access this link.)
 * [Public Schedule](/schedule/)
 * [Code of Conduct](/conduct/)
 * [Care and Support](/support/)
@@ -54,7 +54,7 @@ Normally, you might be picking up your welcome packet and pronoun pins when you 
 <div class="icon"><img src="/media/img/name.png"></div>
 <div class="markdown" markdown="1">
 #### Step 1: Grab your name tag.
-Starting Tuesday, you can sign-up for our conference Slack. We’ll post this link permanently at the top of [our Eventbrite page](/signin/), and we’ll be emailing it to you directly too! Once you’ve signed up, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!
+Starting Tuesday, you can sign-up for our conference Slack. We’ll post this link permanently at the top of [our Eventbrite page](/signin/), and we’ll be emailing it to you directly too! Once you’ve signed up, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) You can put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!
 </div>
 </div>
 
@@ -112,18 +112,18 @@ Our talk speakers at SRCCON 2021 are:
 * **Watch talks on your own time.** If you can’t watch a talk live, you can watch it ahead of time and submit early questions for the speakers all from [our Eventbrite page](/signin/). As a SRCCON participant, you’ll get access to recordings for each talk beforehand.
 * **Live session, with intros and Q&A**: Before each talk, we’ll introduce the speakers, and then play the recorded talk. As we’re watching, the speakers will be in the Zoom chat with you, and you’ll be able to ask questions during the talk in the chat. Afterwards, we’ll also do a moderated, live Q&A with the speakers on video. 
 * **Overflow Q&A:** Right after our live Q&A, if there are still more questions for the speakers, we’ll be porting them over to our SRCCON Slack. We’ll have a single channel  (#talks-qa-overflow) dedicated to overflow questions from all our talks, and the speakers will hang out there for as long as they can to answer more questions. 
-* **Catch up on the Q&A later.** Since we’ll also be recording the live event, complete with live Q&A, if you submitted a question beforehand, or just want to watch the talk again, you’ll have access to those recordings and the transcript for them for the duration of SRCCON, also via [our Eventbrite page](/signin/).
+* **Catch up on the Q&A later.** We’ll record the live event, complete with live Q&A. If you want to catch the Q&A, or just want to watch the talk again, you’ll have access to those recordings and transcripts for the duration of SRCCON, also via [our Eventbrite page](/signin/).
 
 
 ## Sessions
 
 If talks give us a shared foundation to build upon, then sessions are where we do the building. 
 
-Just like in previous years, all of SRCCON is built around three days of peer-led conversations and hands-on workshops. All the sessions on our schedule are proposed and led by community members who want to help people learn new skills, explore tough questions, or develop new resources to share.
+Just like in previous years, SRCCON is built around three days of peer-led conversations and hands-on workshops. All the sessions on our schedule are proposed and led by community members who want to help people learn new skills, explore tough questions, or develop new resources to share.
 
 Each day, there will be two blocks of sessions:
 
-* To view sessions and select which to attend, see [the full schedule](/schedule/).
+* To view sessions and decide which to attend, see [the full schedule](/schedule/).
 * To join a session during its scheduled time, click on the designated Zoom link [on the Eventbrite page](/signin/) for participants.
 
 Sessions at SRCCON 2021 focus on important change — whether that's for the journalism industry, for our workplaces, or for ourselves.  We’ll be talking about going beyond performative allyship, the need to radically change elections coverage, what real accountability looks like in journalism, how to build our own resilience,  and [so much more](/schedule/). SRCCON sessions, too, are usually formed by a single question or problem that people want to take on together—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
@@ -135,7 +135,7 @@ As a participant, you should be ready to be active in each session. With 75-minu
 
 ## More informal, social sessions 
 
-We’ve set aside an hour every day of SRCCON to specially feature a set of sessions on topics of interest about life at work and outside of it — hobbies, games, and other activities. These sessions cover a mix of topics and are in different formats, some conversational, some active, some more just listening. Many of you shared your interests with us in the call for participation form, which helped us organize these sessions. Just like other sessions, these will be on Zoom, and links are listed [on the Eventbrite page](/signin/). 
+We’ve set aside an hour every day of SRCCON to specially feature a set of sessions about life at work and outside of it — hobbies, games, and other activities. These sessions cover a mix of topics and are in different formats, some conversational, some active, some more just listening. Many of you shared your interests with us in the call for participation form, which helped us organize these sessions. Just like other sessions, these will be on Zoom, and links are listed [on the Eventbrite page](/signin/). 
 
 
 ### FAQ 
@@ -143,29 +143,28 @@ We’ve set aside an hour every day of SRCCON to specially feature a set of sess
 
 ## How do I get help if I’m having issues?
 
-The fastest way to contact our team will be within the Slack workspace. If you’re have tech problems, post in **#00-tech-support**. If you have a general question, post in **#00-questions**. We’ll follow up as quickly as we can. You can also DM anyone with “staff” in their display name, but we’ve got dedicated folks helping us field questions in the designated Slack channels, so posting there may get you an answer faster. You can also reach our team via email at [srccon@opennews.org](mailto:srccon@opennews.org). Response times may be a bit slower during the event.
+The fastest way to contact our team will be within the Slack workspace. If you’re having tech problems, post in **#00-tech-support**. If you have a general question, post in **#00-questions**. We’ll follow up as quickly as we can. You can also DM anyone with “staff” in their display name, but we’ve got dedicated folks helping us field questions in the designated Slack channels, so posting there may get you an answer faster. You can also reach our team via email at [srccon@opennews.org](mailto:srccon@opennews.org). Response times may be a bit slower during the event.
 
 
 ## How much of SRCCON will be recorded and available after the conference?
 
 We’ll be recording our opening staff welcome, and we’ll make that available to everyone ASAP afterward, to help everyone get oriented to SRCCON and how it works at your own pace!
 
-All of our talks will be recorded too, and available to participants during the conference.
+All of our talks will be recorded too, and available to participants _during_ the conference.
 
-We will_ not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to participants.
+We will _not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to participants.
 
 ## What parts of SRCCON can I share publicly on social media, or privately with people who are not SRCCON participants?
 
-For SRCCON participants only, **do not share these**:
+These parts of SRCCON are for participants only. **Please do not share**:
 
 * Zoom links to SRCCON talks/sessions 
 * Talks/session google docs
 * Talks recordings
 * Transcripts
-* Our virtual bullet board
+* Our virtual bulletin board
 
 We’ll be sharing additional guidance on what parts of SRCCON can and cannot be shared soon.
-
 
 
 ## How can I be a great SRCCON participant?
@@ -174,9 +173,9 @@ Just like previous years, SRCCON 2021 is a unique, accessible, and inclusive eve
 
 #### How we always hope you’ll participate:
 
-* Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself —not panels where you sit back and listen, but sessions where you participate and learn.
-* Connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
-* Bring who you are into a conference that thinks about the program, the schedule—even breaks & activities—as ways to celebrate everything you have to share.
+* Be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself — not panels where you sit back and listen, but sessions where you participate and learn.
+* Connect with people who share your hopes and dreams for journalism — not just making professional acquaintances, but creating personal relationships that last.
+* Bring who you are into a conference that thinks about the program, the schedule — even breaks & activities — as ways to celebrate everything you have to share.
 
 #### Create a welcoming digital environment:
 
@@ -188,7 +187,7 @@ Just like previous years, SRCCON 2021 is a unique, accessible, and inclusive eve
 
 At previous SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. This time, we’d like to ask for your help to make sure that all of our programming is only shared with participants. There’s two main reasons for this:
 
-First, it’s extremely important to us that all SRCCON participants are held accountable to our Code of Conduct. While it’s easy to share a Zoom link to a session or talk with a colleague or friend, unless that person registered for SRCCON, they will not have agreed to our Code of Conduct, which puts the community in a difficult position.
+First, it’s extremely important to us that all SRCCON participants are held accountable to our [Code of Conduct](/conduct). While it’s easy to share a Zoom link to a session or talk with a colleague or friend, unless that person registered for SRCCON, they will not have agreed to our Code of Conduct, which puts the community in a difficult position.
 
 Second, just like in-person SRCCON, we’re here to create a smaller environment where you have a chance to get to know each person in your sessions, and so people can feel comfortable sharing about and workshopping difficult challenges in their work or personal life. We deliberately decided to put a similar cap on the number of participants at SRCCON online, just as we would an in-person event, because we want to maintain that same sense of comfort so participants can still be vulnerable with one another. Similarly, our facilitators are also all preparing for a normal-for-SRCCON sized session. Even if a handful of SRCCON participants invited extra folks, that’s enough to increase our session sizes by 50% or higher. Please help us avoid this situation.
 
