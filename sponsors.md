@@ -11,7 +11,7 @@ Interested in having your company or organization get involved? [Find out more a
 
 <div class="page-divider"><span>Accessibility sponsor</span></div>
 <div class="sponsor-block">
-    <a href="https://www.nytimes.com/"><img src="/media/img/partners/nyt.png" alt="The New York Times"></a>
+    <a href="https://www.nytco.com/careers/technology/"><img src="/media/img/partners/nyt.png" alt="The New York Times"></a>
     <p>The Truth is Essential and we’re excited to be able to support the community of people who seek it at SRCCON. The New York Times is a continually evolving team of journalists, coders, designers, product managers, women and men all contributing to the 160+ year history of the Grey Lady.</p>
 </div>
 
