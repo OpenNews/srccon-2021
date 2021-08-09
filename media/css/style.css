@@ -29,7 +29,7 @@ body.participant.prep main p, body.participant.prep main ul {
     padding: 0 0 0.7em;
 }
 
-body.participant.prep .page-container ul:nth-of-type(-n+2) {
+body.participant.prep .content-body ul:nth-of-type(-n+2) {
     font-family: sofia-pro, sans-serif;
     font-size:  1.3rem;
     line-height:  2rem;
