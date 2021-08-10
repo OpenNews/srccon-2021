@@ -62,7 +62,7 @@ Starting Tuesday, you can sign-up for our conference Slack. We’ll post this li
 <div class="icon"><img src="/media/img/pronouns.png"></div>
 <div class="markdown" markdown="1">
 #### Step 2: Add your pronoun pin.
-In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names. For example, “Sisi Wei (she/her).” Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
+In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names so they’re always visible. For example, “Sisi Wei (she/her).” Additionally you can add pronouns to your profile’s “pronouns” field too. Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
 </div>
 </div>
 
