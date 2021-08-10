@@ -170,11 +170,11 @@ What can be shared:
 
 When it comes to direct quotes, anecdotes, and the knowledge we share with one another as peers, it gets a little more complicated. 
 
-At SRCCON, we seek to create a space where people can speak openly and bravely, and learn from each other. That can’t happen if people don’t feel safe sharing their ideas, because anything they say could end up online. At the same time, at SRCCON, we seek to create real change in our industry. That has a significantly harder time happening, if people can’t share anything they hear at SRCCON with colleagues at work. Finally, at SRCCON, we also believe strongly in crediting people for their ideas, so we cannot give guidance that defaults to erasing that credit. So, to the best of our ability, we’re trying hard to balance these three goals, and we need your help doing the same. With that in mind, here’s our guidance:
+At SRCCON, we seek to create a space where people can speak openly and bravely, and learn from each other. That can’t happen if people don’t feel safe sharing their ideas because anything they say could end up online. At the same time, we want SRCCON to be a place that creates real change in our industry. That’s a lot harder if people can’t share anything they hear or learn. Finally, we also believe strongly in crediting people for their ideas, so we cannot default to erasing that credit. So, to the best of our ability, we’re trying to balance these three goals, and we need your help doing the same. With that in mind, here’s our guidance:
 
-* If at any time, anyone says what they’re sharing is **off the record**, do not share what they say under any circumstance. This also means you cannot share what they say, even if you anonymize them.
+* If at any time, anyone says what they’re sharing is **off the record**, do not share what they say under any circumstance. This also means you cannot share what they say even if you anonymize them.
 * During our talks and sessions, you’re welcome to share any quotes from the speakers and facilitators (unless they say otherwise), since they’ve come to SRCCON prepared to share.
-* During any moment at SRCCON, if you’re interested in sharing something you’ve heard from a fellow participant, who is not acting as a facilitator at that moment, please default to asking them explicitly for permission. An example ask could be: “Would it be okay if I share that story with my colleagues/on Twitter/in my work Slack and give you credit?” 
+* During any moment at SRCCON, if you’re interested in sharing something you’ve heard from a fellow participant who is not acting as a facilitator at that moment, please default to asking them explicitly for permission. An example ask could be: “Would it be okay if I share that story with my colleagues/on Twitter/in my work Slack and give you credit?” 
 
 ## How can I be a great SRCCON participant?
 
