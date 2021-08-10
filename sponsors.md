@@ -9,10 +9,15 @@ title: Our sponsors
 Interested in having your company or organization get involved? [Find out more about becoming a sponsor of SRCCON](/sponsors/about/).
 
 
-<div class="page-divider"><span>Accessibility sponsor</span></div>
+<div class="page-divider"><span>Accessibility sponsors</span></div>
 <div class="sponsor-block">
     <a href="https://www.nytco.com/careers/technology/"><img src="/media/img/partners/nyt.png" alt="The New York Times"></a>
     <p>The Truth is Essential and we’re excited to be able to support the community of people who seek it at SRCCON. The New York Times is a continually evolving team of journalists, coders, designers, product managers, women and men all contributing to the 160+ year history of the Grey Lady.</p>
+</div>
+
+<div class="sponsor-block">
+    <a href="https://voxmedia.com/"><img src="/media/img/partners/voxmedia.png" alt="Vox Media"></a>
+    <p>SRCCON is a remarkable place for people to gather, learn and grow, and Vox Media is excited to help bring that experience to as many people as possible. As the home of Vox, New York Magazine, The Verge, Eater, Polygon, SB Nation and more, we’re committed to making our work accessible, thoughtful and inclusive.</p>
 </div>
 
 
