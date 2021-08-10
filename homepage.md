@@ -7,7 +7,7 @@ permalink: /
 
 **[Check out the schedule for SRCCON 2021!](/schedule)**
 
-* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). [All the sign-in links are here on Eventbrite](https://2021.srccon.org/signin).
+* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](https://2021.srccon.org/signin).
 * **Want to join us?** [It's not too late](/participation/form). 
 
 Here's our program for the week, and how you can still get involved.
