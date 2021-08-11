@@ -3,21 +3,37 @@ section: homepage
 permalink: /
 ---
 
-### When & where
+### Welcome to SRCCON week!
 
-**August 11-13, online!** [Our full schedule is live](/schedule) and we couldn't be more excited. 
+**[Check out the schedule for SRCCON 2021!](/schedule)**
 
-**Attend SRCCON:** There's still time to join us! Fill out our **[call for participation form](/participation/form)** to let us know you'd like to attend SRCCON. We'll keep the form open as long as we have space! If invited to attend, you will be able to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets). This process allows us to facilitate meaningful conversations and make sure SRCCON is accessible to a broad group of people.
+* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](https://2021.srccon.org/signin).
+* **Want to join us?** [It's not too late](/participation/form). 
 
-**Key Dates for Your Calendar**:
+Here's our program for the week, and how you can still get involved.
 
-* **By Thursday, July 22**: Anyone who proposed a session or applied for a stipend by July 16 has been notified
-* **On a rolling basis**: Within a week or so of submitting our call for participation form, anyone who selects "I'd like to attend" will be notified about whether they are invited to purchase a ticket
-* **August 11-13**: SRCCON 2021, online!
+#### The Program (Wednesday-Friday, August 11-13)
 
-This year will be our second digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in 2020. 
+* **Talks:** The three talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
+* **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
+* **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2021. If you want to come to SRCCON 2021, our call for participation is how to let us know! We will keep the call for participation open as long as tickets remain available, but submitting the form early is your best chance to attend.
+<ul class="action-links">
+    <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
+    <li>🗓 <a href="/schedule">Check the schedule</a></li>
+</ul>
+
+#### The SRCCON Slack (Tuesday-Monday, August 10-16)
+
+Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other attendees, share and discover projects, follow up on sessions, and find emergent conversations. Fill out our [call for participation](/participation/form) to join us!
+
+### How to be a part of SRCCON 2021
+
+**[Our call for participation form is still open!](/participation/form)** If you’d like to attend SRCCON 2021, this is how to let us know. Even after SRCCON has already started, we'll be going through this form _at least_ once per day, so you'll still be able to join us midway through.
+
+We're building an online space based on what we collectively value about the physical experience. The event program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously.
+
+Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
 
 ### About {{ page.event_name }}
 
