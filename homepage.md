@@ -7,13 +7,13 @@ permalink: /
 
 At SRCCON 2021, participants came together and built an unforgettable space to work on our hopes for journalism — what we'll be shedding and leaving behind, what we'll create anew, and how we can support one another through it all. 
 
-## Here’s what we did
+#### Here’s what we did
 * Gathered for three talks that tackled head-on the difficult conversations in journalism, inspiring us to not be satisfied with the way things are, become better managers, and recognize the extremely real concerns that are causing people to leave journalism entirely. 
 * Came together for 25 interactive sessions and workshops, teaching each other about how we need to rethink the tools and techniques we use do journalism in 2021, how to make our newsrooms more equitable places for everyone, and how to take care of ourselves so we can continue to do what we care about in the future.
 * Led a dozen more informal, social sessions on everything from becoming freelance consultants, to doing nothing, to living in national parks, to talking about being Jewish in journalism, and to asking the DEI questions you're scared to ask.
 * Connected throughout the week in the SRCCON Slack: a pop-up community with dozens of channels created by attendees to keep talking after sessions wrapped up and organize around shared interests and goals
 
-## And here’s what you said
+#### And here’s what you said
 * "SRCCON is making me reconsider everything about everything, in the best way!"
 * "SRCCON's celebration of people's value outside their work is so refreshing and inspiring. The fact that we can be talking about journalism constantly and still keep our jobs in perspective with the rest of our lives is magical."
 * "I loved the big conversations that were tackled and the honestly and generosity with which they were facilitated. But mostly, I'm coming away with new tactics and approaches that I'm hoping to implement at my organization to start working toward the bigger change we all want to see, from modernizing newsrooms to creating more equitable workplaces."
