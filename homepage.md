@@ -3,39 +3,31 @@ section: homepage
 permalink: /
 ---
 
-### Welcome to SRCCON week!
+### About {{ page.event_name }}
 
-**[Check out the schedule for SRCCON 2021!](/schedule)**
+At SRCCON 2021, participants came together and built an unforgettable space to work on our hopes for journalism — what we'll be shedding and leaving behind, what we'll create anew, and how we can support one another through it all. 
 
-* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](https://2021.srccon.org/signin).
-* **Want to join us?** [It's not too late](/participation/form). 
+## Here’s what we did
+* Gathered for three talks that tackled head-on the difficult conversations in journalism, inspiring us to not be satisfied with the way things are, become better managers, and recognize the extremely real concerns that are causing people to leave journalism entirely. 
+* Came together for 25 interactive sessions and workshops, teaching each other about how we need to rethink the tools and techniques we use do journalism in 2021, how to make our newsrooms more equitable places for everyone, and how to take care of ourselves so we can continue to do what we care about in the future.
+* Led a dozen more informal, social sessions on everything from becoming freelance consultants, to doing nothing, to living in national parks, to talking about being Jewish in journalism, and to asking the DEI questions you're scared to ask.
+* Connected throughout the week in the SRCCON Slack: a pop-up community with dozens of channels created by attendees to keep talking after sessions wrapped up and organize around shared interests and goals
 
-Here's our program for the week, and how you can still get involved.
+## And here’s what you said
+* "SRCCON is making me reconsider everything about everything, in the best way!"
+* "SRCCON's celebration of people's value outside their work is so refreshing and inspiring. The fact that we can be talking about journalism constantly and still keep our jobs in perspective with the rest of our lives is magical."
+* "I loved the big conversations that were tackled and the honestly and generosity with which they were facilitated. But mostly, I'm coming away with new tactics and approaches that I'm hoping to implement at my organization to start working toward the bigger change we all want to see, from modernizing newsrooms to creating more equitable workplaces."
 
-#### The Program (Wednesday-Friday, August 11-13)
+
+### About the program
+
+**Wednesday-Friday, August 11-13, 2021**
 
 * **Talks:** The three talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
 * **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
-<ul class="action-links">
-    <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
-    <li>🗓 <a href="/schedule">Check the schedule</a></li>
-</ul>
-
-#### The SRCCON Slack (Tuesday-Monday, August 10-16)
-
-Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other attendees, share and discover projects, follow up on sessions, and find emergent conversations. Fill out our [call for participation](/participation/form) to join us!
-
-### How to be a part of SRCCON 2021
-
-**[Our call for participation form is still open!](/participation/form)** If you’d like to attend SRCCON 2021, this is how to let us know. Even after SRCCON has already started, we'll be going through this form _at least_ once per day, so you'll still be able to join us midway through.
-
-We're building an online space based on what we collectively value about the physical experience. The event program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously.
-
-Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
-
-### About {{ page.event_name }}
+### What you can expect
 
 The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you’ll:
 
