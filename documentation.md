@@ -19,7 +19,7 @@ We asked this year's session leaders to send us slide decks, worksheets, and oth
 
 #### Cultivating resilience: How are we preparing ourselves for the next decade in journalism?
 
-* [Session slides](https://docs.google.com/presentation/d/1TiBfYnej_jQmmfm-nipo1m4WjXkLk63S/edit#slide=id.p1)
+* [Slides from the SRCCON 2021 session](https://docs.google.com/presentation/d/1TiBfYnej_jQmmfm-nipo1m4WjXkLk63S/edit#slide=id.p1)
 * Reading list: [Guanacaste, the Last Hope for Mesoamerican Dry Forests](https://vozdeguanacaste.com/en/guanacaste-the-last-hope-for-mesoamerican-dry-forests/)
 * Reading list: [What is Resilience?](https://www.journalism.cuny.edu/jplus/fellowships/resilience-fellowship-program/what-is-resilience/)
 * Reading list: [Another definition of resilience](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure)
@@ -37,7 +37,7 @@ We asked this year's session leaders to send us slide decks, worksheets, and oth
 
 #### The Data of Divides: Analysis & stats for covering inequality
 
-* [Session slides](https://docs.google.com/presentation/d/1W9HI_XDl8vqJ3jdQrfuLFsYpRMoTGBtVXHqTS1mI68o/present?slide=id.p)
+* [Slides from the SRCCON 2021 session](https://docs.google.com/presentation/d/1W9HI_XDl8vqJ3jdQrfuLFsYpRMoTGBtVXHqTS1mI68o/present?slide=id.p)
 
 #### Making remote work successful in a (hopefully soon) post-COVID world
 
@@ -65,7 +65,7 @@ We asked this year's session leaders to send us slide decks, worksheets, and oth
 
 #### Our Election Results Are Bad: Why we need to radically rethink how we report on political contests after 2020
 
-* [Session slides](https://docs.google.com/presentation/d/113KHKRZOgk5W1slV4iKvWobqSgRxPwN8ltC7A2r4RAI/edit)
+* [Slides from the SRCCON 2021 session](https://docs.google.com/presentation/d/113KHKRZOgk5W1slV4iKvWobqSgRxPwN8ltC7A2r4RAI/edit)
 
 #### Reevaluating engagement's role in the newsroom: What would audience work look like if it were dominated by JOCs?
 
@@ -84,11 +84,11 @@ We asked this year's session leaders to send us slide decks, worksheets, and oth
 
 #### Sincerely, Leaders of Color LIVE
 
-* [Lessons from SRCCON2021](https://source.opennews.org/articles/sincerely-leaders-color-lessons-srccon2021/)
+* [Lessons from SRCCON 2021](https://source.opennews.org/articles/sincerely-leaders-color-lessons-srccon2021/)
 * [Sincerely, Leaders of Color column](https://source.opennews.org/articles/tags/sincerely-leaders-of-color/)
 
 #### Untangling the statehouse: Using data to make sense of state legislatures
 
 * [Montana Free Press 2021 Capitol Tracking guide](https://apps.montanafreepress.org/capitol-tracker-2021/ )
 * [GitHub repo for data processing framework](https://github.com/eidietrich/mtleg-2021-framework)
-* [https://github.com/eidietrich/mtleg-2021-app](https://github.com/eidietrich/mtleg-2021-app)
+* [GitHub repo for Montana Free Press 2021 Capitol Tracker front end](https://github.com/eidietrich/mtleg-2021-app)
