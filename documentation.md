@@ -6,7 +6,7 @@ title: Documentation
 
 # SRCCON 2021 Documentation
 
-It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also love to see the ideas and conversations there make their way into the wider world. This page collects resources  you can refer to as you bring SRCCON home with you.
+We love to see ideas and conversations from SRCCON make their way into the wider world. This page collects resources shared by our facilitators that you can refer to as you bring SRCCON home with you. (Looking for great ways to share new things with colleagues? See [the After Party toolkit](https://srccon.org/share/)!)
 
 
 ## Session Notes & Resources
